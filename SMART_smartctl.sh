@@ -2,7 +2,7 @@
 #
 #  https://github.com/dave-pl/linux_bash_hwcheck/blob/master/smart.sh   -- оригинал
 #  https://gist.github.com/hanynowsky/b0bf3b8e451aeb00e5741385a2923fac  -- список как опредилить рейд контролер
-#  https://gist.github.com/avios95/94c805681a1570efb1dd0b95286768fa     -- мой файл
+#  https://github.com/avios95/script/blob/master/SMART_smartctl.sh     -- мой файл
 #
 smart () {
 #==========Блок обнаружения=============Detect block=======================
