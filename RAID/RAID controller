@@ -1,0 +1,39 @@
+https://gist.github.com/hanynowsky/b0bf3b8e451aeb00e5741385a2923fac
+
+
+#Checking disks behind RAID controllers
+
+#RAID controllers typically simulate a (logical) disk for each array of (physical) disks to the OS. 
+#Access to SMART functionality relies on ATA or SCSI pass through I/O controls providing direct access to each physical disk. 
+#But the standard I/O controls available are usually not designed to make this distinction between logical and physical disks. 
+#Therefore, smartmontools has to use vendor specific I/O controls. 
+#Support for disks behind RAID controllers is highly dependent on both platform and controller type.
+
+RAID-Controller 													Linux 	FreeBSD 	NetBSD 	OpenBSD 	MacOS 	Solaris 	Windows
+LSI 3ware SATA RAID controller 										-d 3ware,N /dev/twX 1. 			-d 3ware,N /dev/twX 2. 					/dev/sdX,N 3.
+Areca SATA[/SAS] RAID controller 									-d areca,N[/E] /dev/sgX 4. 		-d areca,N[/E] /dev/arcmsrX 11. 		-d areca,N[/E] /dev/arcmsrX 12.
+HighPoint RocketRAID SATA RAID controller 							-d hpt,L/M/N /dev/sdX 5. 		-d hpt,L/M/N /dev/hptX 6. 	
+CCISS (HP/Compaq Smart Array Controller) 							-d cciss,N /dev/cciss/cXd0 7. 	-d cciss,N /dev/cissX 	
+LSI MegaRAID SAS RAID controller
+Dell PERC 5/i,6/i controller 										-d megaraid,N /dev/sdX 8. 		/dev/passX 9. 							/dev/csmiX,N 13.
+Intel ICHxR RAID(Intel Rapid/Matrix Storage) 						/dev/sdX 						/dev/adX								/dev/csmiX,N 10.
+Adaptec SAS RAID controller(devices supported by ​aacraid driver)	-d aacraid,H,L,ID /dev/sdX14.	-d aacraid,H,L,ID /dev/sdX15.
+
+See the notes below and the INSTALL​ file for information about kernel and driver requirements on your platform. Also consult the man pages for controller specific smartmontools options or directives.
+Notes:
+
+1. 3ware RAID controllers are supported on Linux since smartmontools release 5.1-18. Support for char devices /dev/twX was added in release 5.33.
+2. 3ware support on FreeBSD is available since release 5.33, multiple controller and char device support was added in release 5.36.
+3. 3ware 9000 series only (added in release 5.37), requires Windows driver 9.4.0 or later. For older controllers, smartctl and smartd provide limited SMART support through tw_cli tool, see man page. Initially the SMART support was added only to the 32-bit Windows driver. With recent driver versions SMART access works on 64-bit Windows 7 (see ​mailing list) but not on 64-bit XP/2003 (see ticket #172).
+4. Areca SATA controller support for Linux was added in release 5.39. Areca SAS controller support (SATA drives only) was added in release 5.43. SAS drive support was added in release 6.1.
+5. HighPoint RocketRAID support for Linux was added in release 5.37.
+6. HighPoint RocketRAID support for FreeBSD was added in release 5.39.
+7. CCISS (Compaq Smart Array Controller) support for Linux was added in release 5.37. SATA auto-detection was added in release 5.43.
+8. Support for LSI MegaRAID controller on Linux was added in release 5.39. Please note that on some controllers device enumeration starts from 8 (use -d megaraid,8 in such cases). In release 6.1 autoscan functionality implemented for the Linux version.
+9. Support of LSI MegaRAID on FreeBSD is implemented with mfip.ko module and /dev/passX devices.
+10. Intel ICHxR RAID (CSMI) support for Windows was added in release 5.41. May also work with other controllers if the driver implements CSMI.
+11. Areca SATA controller support for FreeBSD was added in release 5.42. Areca SAS controller support (SATA drives only) was added in release 5.43. SAS drive support was added in release 6.1.
+12. Areca SATA/SAS controller support (SATA drives only) for Windows was added in release 5.43. SAS drive support was added in release 6.0.
+13. According to user reports, some Windows drivers for LSI MegaRAID and Dell PERC 6 implement CMSI (see ticket #243 and ​drive-database mailing list), other drivers don't (see ​support mailing list).
+14. Aacraid support for Linux was added in release 6.3.
+15. Adaptec support for Windows was added in release 6.4. 
