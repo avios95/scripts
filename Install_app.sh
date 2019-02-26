@@ -1,4 +1,22 @@
 #!/bin/bash
+#need add remina / kazam / collabshot / java / 
+# 1005  sudo apt install git
+# 1229  sudo apt-get install shutter
+# 1243  sudo snap install remmina
+# 1244  sudo apt-get install snap
+# 1274  sudo apt-get install remmina remmina-plugin-rdp libfreerdp-plugins-standard
+# 1276  sudo apt-get install remmina-plugin-vnc
+# 1287  sudo apt-get install mint-meta-codecs
+# 1512  sudo apt-get install oracle-java8-installer
+# 1513  sudo apt install oracle-java8-set-default
+# 1517  sudo apt-get install oracle-java7-installer
+# 1520  sudo apt install pwgen
+# 1535  sudo apt install lftp
+# 1672  sudo apt install traceroute
+# 1809  sudo apt install kazam
+#
+
+
 echo -e "\e[31mInstal wget\e[0m"
 apt-get install -y wget
 
