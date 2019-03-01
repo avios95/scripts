@@ -54,19 +54,19 @@ echo -e "\e[31mEnd Update\e[0m"
 
 #Install app
 echo -e "\e[31mInstal git\e[0m"
-sudo apt install git
+apt-get install git
 echo -e "\e[31mInstal remmina\e[0m"
-sudo apt-get install remmina remmina-plugin-rdp libfreerdp-plugins-standard remmina-plugin-vnc
+apt-get install remmina remmina-plugin-rdp libfreerdp-plugins-standard remmina-plugin-vnc
 echo -e "\e[31mInstal pwgen\e[0m"
-sudo apt install pwgen
+apt-get install pwgen
 echo -e "\e[31mInstal lftp\e[0m"
-sudo apt install lftp
+apt-get install lftp
 echo -e "\e[31mInstal traceroute\e[0m"
-sudo apt install traceroute
+apt-get install traceroute
 echo -e "\e[31mInstal kazam\e[0m"
-sudo apt install kazam
+apt-get install kazam
 echo -e "\e[31mInstal flameshot\e[0m"
-apt install flameshot
+apt-get install flameshot
 echo -e "\e[31mInstal tree\e[0m"
 apt-get install -y tree
 echo -e "\e[31mInstal atop\e[0m"
@@ -115,11 +115,7 @@ echo -e "\e[31mInstall Viber\e[0m"
 apt-get install libqt5gui5 libcurl3 -y
 wget http://download.cdn.viber.com/cdn/desktop/Linux/viber.deb
 dpkg -i viber.deb
-rm viber.deb
-echo -e "\e[31mInstall Joxi\e[0m"
-wget http://dl.joxi.ru/linux/joxi-amd64.deb
-dpkg -i joxi-amd64.deb
-rm joxi-amd64.deb
+rm -rf viber.deb
 echo -e "\e[31mApp instaled\e[0m"
 
 #Добавления рабочего стола в Dropbox для синхронизации
