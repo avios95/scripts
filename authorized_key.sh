@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if ! [ -d /root/.ssh/ ]; then mkdir /root/.ssh; fi 
 if ! [ -f /root/.ssh/authorized_keys ]; then touch /root/.ssh/authorized_keys; chmod 600 /root/.ssh/authorized_keys ; fi
 if ! [ "`cat ~/.ssh/authorized_keys | grep avios@ | awk '{print $3}'`" = "avios@g6"  ]
