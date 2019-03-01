@@ -1,26 +1,15 @@
 #!/bin/bash
-#need add remina / kazam / collabshot / java / 
-# 1005  sudo apt install git
-# 1229  sudo apt-get install shutter
-# 1243  sudo snap install remmina
-# 1244  sudo apt-get install snap
-# 1274  sudo apt-get install remmina remmina-plugin-rdp libfreerdp-plugins-standard
-# 1276  sudo apt-get install remmina-plugin-vnc
-# 1287  sudo apt-get install mint-meta-codecs
-# 1512  sudo apt-get install oracle-java8-installer
-# 1513  sudo apt install oracle-java8-set-default
-# 1517  sudo apt-get install oracle-java7-installer
-# 1520  sudo apt install pwgen
-# 1535  sudo apt install lftp
-# 1672  sudo apt install traceroute
-# 1809  sudo apt install kazam
-#
-
+#Author: 	avios
+#Github: 	https://github.com/avios95/script/blob/master/Install_app.sh
+#Example:	wget https://raw.githubusercontent.com/avios95/script/master/Install_app.sh && bash Install_app.sh && rm -rf Install_app* 
+#Info:		Install app with repository and configure system
 
 echo -e "\e[31mInstal wget\e[0m"
 apt-get install -y wget
 
 #Start repository
+echo -e "\e[31mAdd repository flameshot\e[0m"
+add-apt-repository ppa:atareao/flameshot
 echo -e "\e[31mAdd repository Notepad++\e[0m"
 add-apt-repository -y ppa:notepadqq-team/notepadqq
 echo -e "\e[31mAdd repository Tor\e[0m"
@@ -64,6 +53,20 @@ apt-get update
 echo -e "\e[31mEnd Update\e[0m"
 
 #Install app
+echo -e "\e[31mInstal git\e[0m"
+sudo apt install git
+echo -e "\e[31mInstal remmina\e[0m"
+sudo apt-get install remmina remmina-plugin-rdp libfreerdp-plugins-standard remmina-plugin-vnc
+echo -e "\e[31mInstal pwgen\e[0m"
+sudo apt install pwgen
+echo -e "\e[31mInstal lftp\e[0m"
+sudo apt install lftp
+echo -e "\e[31mInstal traceroute\e[0m"
+sudo apt install traceroute
+echo -e "\e[31mInstal kazam\e[0m"
+sudo apt install kazam
+echo -e "\e[31mInstal flameshot\e[0m"
+apt install flameshot
 echo -e "\e[31mInstal tree\e[0m"
 apt-get install -y tree
 echo -e "\e[31mInstal atop\e[0m"
