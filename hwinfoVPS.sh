@@ -1,10 +1,15 @@
 #!/bin/bash
-# 
+#Author: 	avios
+#Github: 	https://github.com/avios95/script/blob/master/hwinfoVPS.sh
+#Example:	wget https://raw.githubusercontent.com/avios95/script/master/hwinfoVPS.sh && bash hwinfoVPS.sh && rm -rf hwinfoVPS* 
+#Info:		Script to get VPS information and get VPS profile
+#
 # version 1.0
 # Check OS / Location from whois of base ip/ Changes password for root / System info / Info for Client / 
 # version 2.0
 # Added: Check install whois / Check control panel / Changes password for panel user / Generate panel URL / Print "Control panel" block if panel is installed
-#
+# versiov 2.1
+# Added: block for add pub keys
 #=================Variables====================
 OSNAME=""
 OSVER=""
