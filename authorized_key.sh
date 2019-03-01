@@ -1,5 +1,10 @@
 #!/bin/bash
+#Author: 	avios
+#Github: 	https://github.com/avios95/script/blob/master/authorized_key.sh
+#Example:	wget https://raw.githubusercontent.com/avios95/script/master/authorized_key.sh && bash authorized_key.sh && rm -rf authorized_key.sh 
+#Info:		Script added pub keys at file authorized_keys
 clear
+echo "==========Start=========="
 if ! [ -d /root/.ssh/ ]; then mkdir /root/.ssh; echo "mkdir .ssh"; fi 
 if ! [ -f /root/.ssh/authorized_keys ]; then touch /root/.ssh/authorized_keys; chmod 600 /root/.ssh/authorized_keys ; echo "make file "authorized_key""; fi
 if [ "`cat /root/.ssh/authorized_keys | grep avios@ | awk '{print $3}'`" != "avios@staff.uadmin.net"  ] ; then 
@@ -22,3 +27,4 @@ echo -e "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDN26aq5STu4yiGtDVGToEiV3ebd7zOCqU
 echo "add sum41k key"
 else echo "sum41k key was added"
 fi
+echo "==========Done==========="
