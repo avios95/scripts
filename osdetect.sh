@@ -1,6 +1,9 @@
 #!/bin/sh
-# wget https://raw.githubusercontent.com/avios95/script/master/osdetect.sh && bash osdetect.sh && rm -rf osdetect*
-
+#Author: 	avios
+#Github: 	https://github.com/avios95/script/blob/master/osdetect.sh
+#Example:	wget https://raw.githubusercontent.com/avios95/script/master/osdetect.sh && bash osdetect.sh && rm -rf osdetect*
+#Info:		Script to get info OS 
+#
 
 os=$(uname -s)
 dist_name='unknown'
