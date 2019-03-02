@@ -11,7 +11,7 @@ dist_version='unknown'
 case "${os}" in
     'Linux')
 	lsb_release_path=$(which lsb_release 2> /dev/null)
-	if [ "${lsb_release_path}x" != "x" ]; then
+	if [ "${lsb_release_path}1" != "1" ]; then
 	    dist_name=$(${lsb_release_path} -i | cut -d ':' -f2 )
 	    dist_version=$(${lsb_release_path} -r | cut -d ':' -f2 | sed 's/\t *//g')
 	else
@@ -33,7 +33,7 @@ case "${os}" in
               dist_name='altlinux'
               dist_version=$(cat /etc/altlinux-release | sed 's/.*Linux\ //' | sed 's/\ .*//')
           else
-              if [ "$(cat /etc/redhat-release | grep -i 'Red Hat Enterprise')x" != "x" ]; then
+              if [ "$(cat /etc/redhat-release | grep -i 'Red Hat Enterprise')2" != "2" ]; then
                   dist_name='rhel'
               else
                   dist_name=$(cat /etc/redhat-release | cut -d ' ' -f1)
@@ -67,6 +67,4 @@ case "${os}" in
 	fi
     ;;
 esac
-
-#dist_name=$(echo $dist_name | tr '[:upper:]' '[:lower:]')
-echo "$dist_name-$dist_version"
+echo "$dist_name $dist_version"
