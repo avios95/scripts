@@ -8,6 +8,8 @@ echo -e "\e[31mInstal wget\e[0m"
 apt-get install -y wget
 
 #Start repository
+echo -e "\e[31mAdd repository atom\e[0m"
+add-apt-repository ppa:webupd8team/atom
 echo -e "\e[31mAdd repository flameshot\e[0m"
 add-apt-repository ppa:atareao/flameshot
 echo -e "\e[31mAdd repository Notepad++\e[0m"
@@ -53,6 +55,8 @@ apt-get update
 echo -e "\e[31mEnd Update\e[0m"
 
 #Install app
+echo -e "\e[31mInstal atom\e[0m"
+apt-get install atom
 echo -e "\e[31mInstal git\e[0m"
 apt-get install git
 echo -e "\e[31mInstal remmina\e[0m"
