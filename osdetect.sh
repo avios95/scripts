@@ -1,6 +1,8 @@
 #!/bin/sh
 # This is simple script for getting OS name and it's version
 # Script outputs the string in the format: dist_name-dist_version
+# wget https://raw.githubusercontent.com/avios95/script/master/osdetect.sh && bash osdetect.sh && rm -rf osdetect*
+
 
 os=$(uname -s)
 dist_name='unknown'
@@ -66,5 +68,5 @@ case "${os}" in
     ;;
 esac
 
-dist_name=$(echo $dist_name | tr '[:upper:]' '[:lower:]')
+#dist_name=$(echo $dist_name | tr '[:upper:]' '[:lower:]')
 echo "$dist_name-$dist_version"
