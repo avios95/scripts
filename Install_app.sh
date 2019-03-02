@@ -1,8 +1,9 @@
 #!/bin/bash
 #Author: 	avios
 #Github: 	https://github.com/avios95/script/blob/master/Install_app.sh
-#Example:	wget https://raw.githubusercontent.com/avios95/script/master/Install_app.sh && bash Install_app.sh && rm -rf Install_app* 
+#Example:	wget https://raw.githubusercontent.com/avios95/script/master/Install_app.sh && bash Install_app.sh && rm -rf Install_app*
 #Info:		Install app with repository and configure system
+#Test atom
 
 echo -e "\e[31mInstal wget\e[0m"
 apt-get install -y wget
@@ -38,16 +39,16 @@ wget -q -O - https://repo.skype.com/data/SKYPE-GPG-KEY | apt-key add -
 sh -c 'echo "deb [arch=amd64] https://repo.skype.com/deb unstable main" >> /etc/apt/sources.list.d/skype-unstable.list'
 
 echo -e "\e[31mAdd repository Google Chrome\e[0m"
-wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - 
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -
 sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
 
 echo -e "\e[31mAdd repository VirtualBox\e[0m"
 wget -q -O - https://www.virtualbox.org/download/oracle_vbox_2016.asc | apt-key add -
-sh -c 'echo "deb http://download.virtualbox.org/virtualbox/debian xenial contrib" >> /etc/apt/sources.list.d/virtualbox.org.list' 
+sh -c 'echo "deb http://download.virtualbox.org/virtualbox/debian xenial contrib" >> /etc/apt/sources.list.d/virtualbox.org.list'
 
 echo -e "\e[31mAdd repository Dropbox\e[0m"
 apt-key adv --keyserver pgp.mit.edu --recv-keys 5044912E
-sh -c 'echo "deb http://linux.dropbox.com/ubuntu/ xenial main" >> /etc/apt/sources.list.d/dropbox.list' 
+sh -c 'echo "deb http://linux.dropbox.com/ubuntu/ xenial main" >> /etc/apt/sources.list.d/dropbox.list'
 #End repository
 
 echo -e "\e[31mStart Update\e[0m"
@@ -84,19 +85,19 @@ apt-get install -y vim
 echo -e "\e[31mInstall cURL\e[0m"
 apt-get install -y curl
 echo -e "\e[31mInstall Notepad++\e[0m"
-apt-get install -y notepadqq 
+apt-get install -y notepadqq
 echo -e "\e[31mInstall Tor\e[0m"
-apt-get install -y tor-browser 
+apt-get install -y tor-browser
 echo -e "\e[31mInstall Telegram\e[0m"
-apt-get install -y telegram 
+apt-get install -y telegram
 echo -e "\e[31mInstall Google Chrome\e[0m"
-apt-get install -y google-chrome-stable 
+apt-get install -y google-chrome-stable
 echo -e "\e[31mInstall Chromium\e[0m"
-apt-get install -y chromium-browser 
+apt-get install -y chromium-browser
 echo -e "\e[31mInstall SublimeText\e[0m"
-apt-get install -y sublime-text-installer 
+apt-get install -y sublime-text-installer
 echo -e "\e[31mInstall Libreoffice\e[0m"
-apt-get install -y libreoffice 
+apt-get install -y libreoffice
 echo -e "\e[31mInstall Opera\e[0m"
 apt-get install -y opera
 echo -e "\e[31mInstall Skype\e[0m"
@@ -143,6 +144,6 @@ apt-get autoclean
 echo -e "\e[31mautoremove\e[0m"
 apt-get autoremove -y
 echo -e "\e[31mclean\e[0m"
-apt-get clean 
+apt-get clean
 echo -e "\e[31minstall -f\e[0m"
 apt-get install -f -y
