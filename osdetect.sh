@@ -2,7 +2,6 @@
 # This is simple script for getting OS name and it's version
 # Script outputs the string in the format: dist_name-dist_version
 
-
 os=$(uname -s)
 dist_name='unknown'
 dist_version='unknown'
