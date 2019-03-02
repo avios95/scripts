@@ -3,7 +3,6 @@
 #Github: 	https://github.com/avios95/script/blob/master/Install_app.sh
 #Example:	wget https://raw.githubusercontent.com/avios95/script/master/Install_app.sh && bash Install_app.sh && rm -rf Install_app*
 #Info:		Install app with repository and configure system
-#Test atom
 
 echo -e "\e[31mInstal wget\e[0m"
 apt-get install -y wget
