@@ -9,9 +9,9 @@ apt-get install -y wget
 
 #Start repository
 echo -e "\e[31mAdd repository atom\e[0m"
-add-apt-repository ppa:webupd8team/atom
+add-apt-repository -y ppa:webupd8team/atom
 echo -e "\e[31mAdd repository flameshot\e[0m"
-add-apt-repository ppa:atareao/flameshot
+add-apt-repository -y ppa:atareao/flameshot
 echo -e "\e[31mAdd repository Notepad++\e[0m"
 add-apt-repository -y ppa:notepadqq-team/notepadqq
 echo -e "\e[31mAdd repository Tor\e[0m"
@@ -56,21 +56,21 @@ echo -e "\e[31mEnd Update\e[0m"
 
 #Install app
 echo -e "\e[31mInstal atom\e[0m"
-apt-get install atom
+apt-get install -y atom
 echo -e "\e[31mInstal git\e[0m"
-apt-get install git
+apt-get install -y git
 echo -e "\e[31mInstal remmina\e[0m"
-apt-get install remmina remmina-plugin-rdp libfreerdp-plugins-standard remmina-plugin-vnc
+apt-get install -y remmina remmina-plugin-rdp libfreerdp-plugins-standard remmina-plugin-vnc
 echo -e "\e[31mInstal pwgen\e[0m"
-apt-get install pwgen
+apt-get install -y pwgen
 echo -e "\e[31mInstal lftp\e[0m"
-apt-get install lftp
+apt-get install -y lftp
 echo -e "\e[31mInstal traceroute\e[0m"
-apt-get install traceroute
+apt-get install -y traceroute
 echo -e "\e[31mInstal kazam\e[0m"
-apt-get install kazam
+apt-get install -y kazam
 echo -e "\e[31mInstal flameshot\e[0m"
-apt-get install flameshot
+apt-get install -y flameshot
 echo -e "\e[31mInstal tree\e[0m"
 apt-get install -y tree
 echo -e "\e[31mInstal atop\e[0m"
