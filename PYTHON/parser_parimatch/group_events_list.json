@@ -1,0 +1,2337 @@
+{
+    "Лотерея": [
+        {
+            "id": "14960339",
+            "href": "/sport/lotereja/ukraina-keno-20-iz-80",
+            "name": "Украина. КЕНО. 20 из 80"
+        },
+        {
+            "id": "14960342",
+            "href": "/sport/lotereja/ukraina-super-loto-6-iz-52",
+            "name": "Украина. СУПЕР ЛОТО. 6 из 52"
+        },
+        {
+            "id": "14960341",
+            "href": "/sport/lotereja/ukraina-loto-maksima-5-iz-45",
+            "name": "Украина. ЛОТО МАКСИМА. 5 из 45"
+        },
+        {
+            "id": "14960340",
+            "href": "/sport/lotereja/ukraina-loto-trojjka-3-iz-10",
+            "name": "Украина. ЛОТО ТРОЙКА. 3 из 10"
+        },
+        {
+            "id": "14960718",
+            "href": "/sport/lotereja/novaja-zelandija-keno-20-iz-80",
+            "name": "Новая Зеландия. Keno. 20 из 80"
+        },
+        {
+            "id": "14960858",
+            "href": "/sport/lotereja/ssha-nju-jjork-pick-10-20-iz-80",
+            "name": "США. Нью-Йорк. Pick 10. 20 из 80"
+        },
+        {
+            "id": "14960864",
+            "href": "/sport/lotereja/germanija-keno-20-iz-70",
+            "name": "Германия. KENO. 20 из 70"
+        },
+        {
+            "id": "14960935",
+            "href": "/sport/lotereja/francija-keno-20-iz-70",
+            "name": "Франция. KENO. 20 из 70"
+        },
+        {
+            "id": "14960865",
+            "href": "/sport/lotereja/belarus-sportloto-6-iz-49",
+            "name": "Беларусь. Спортлото. 6 из 49"
+        },
+        {
+            "id": "14962487",
+            "href": "/sport/lotereja/belarus-sportloto-5-iz-36",
+            "name": "Беларусь. Спортлото. 5 из 36"
+        },
+        {
+            "id": "14960866",
+            "href": "/sport/lotereja/velikobritanija-49s-6-iz-49",
+            "name": "Великобритания. 49's. 6 из 49"
+        },
+        {
+            "id": "14960711",
+            "href": "/sport/lotereja/germanija-lotto-6-iz-49",
+            "name": "Германия. LOTTO. 6 из 49"
+        },
+        {
+            "id": "14960712",
+            "href": "/sport/lotereja/grecija-opap-6-iz-49",
+            "name": "Греция. OPAP. 6 из 49"
+        },
+        {
+            "id": "14960868",
+            "href": "/sport/lotereja/ispanija-la-primitiva-6-iz-49",
+            "name": "Испания. La Primitiva. 6 из 49"
+        },
+        {
+            "id": "14960713",
+            "href": "/sport/lotereja/kanada-bc-49-6-iz-49",
+            "name": "Канада. BC 49. 6 из 49"
+        },
+        {
+            "id": "14960714",
+            "href": "/sport/lotereja/kanada-lotto-649-6-iz-49",
+            "name": "Канада. LOTTO 649. 6 из 49"
+        },
+        {
+            "id": "14960708",
+            "href": "/sport/lotereja/avstralija-monday-lotto-6-iz-45",
+            "name": "Австралия. Monday Lotto. 6 из 45"
+        },
+        {
+            "id": "14960709",
+            "href": "/sport/lotereja/avstralija-wednesday-lotto-6-iz-45",
+            "name": "Австралия. Wednesday Lotto. 6 из 45"
+        },
+        {
+            "id": "14960710",
+            "href": "/sport/lotereja/avstralija-saturday-lotto-6-iz-45",
+            "name": "Австралия. Saturday Lotto. 6 из 45"
+        },
+        {
+            "id": "14960877",
+            "href": "/sport/lotereja/avstrija-lotto-6-iz-45",
+            "name": "Австрия. Lotto. 6 из 45"
+        },
+        {
+            "id": "14960846",
+            "href": "/sport/lotereja/evropa-evromilliony-5-iz-50",
+            "name": "Европа. ЕвроМиллионы. 5 из 50"
+        },
+        {
+            "id": "14960707",
+            "href": "/sport/lotereja/evropa-evrodzhekpot-5-iz-50",
+            "name": "Европа. ЕвроДжекпот. 5 из 50"
+        },
+        {
+            "id": "14960705",
+            "href": "/sport/lotereja/rossija-gosloto-5-iz-36",
+            "name": "Россия. ГОСЛОТО. 5 из 36"
+        },
+        {
+            "id": "14962476",
+            "href": "/sport/lotereja/rossija-gosloto-6-iz-45",
+            "name": "Россия. ГОСЛОТО. 6 из 45"
+        },
+        {
+            "id": "14960869",
+            "href": "/sport/lotereja/ssha-florida-fantasy-5-5-iz-36",
+            "name": "США. Флорида. FANTASY 5. 5 из 36"
+        },
+        {
+            "id": "14960870",
+            "href": "/sport/lotereja/ssha-kalifornija-daily-4-4-iz-10",
+            "name": "США. Калифорния. Daily 4. 4 из 10"
+        },
+        {
+            "id": "14960871",
+            "href": "/sport/lotereja/ssha-nju-jjork-win-4-4-iz-10",
+            "name": "США. Нью-Йорк. WIN 4. 4 из 10"
+        },
+        {
+            "id": "14960872",
+            "href": "/sport/lotereja/ssha-florida-pick-4-4-iz-10",
+            "name": "США. Флорида. Pick 4. 4 из 10"
+        },
+        {
+            "id": "14960873",
+            "href": "/sport/lotereja/belgija-pick-3-3-iz-10",
+            "name": "Бельгия. Pick 3. 3 из 10"
+        },
+        {
+            "id": "14960863",
+            "href": "/sport/lotereja/ssha-kalifornija-daily-3-3-iz-10",
+            "name": "США. Калифорния. Daily 3. 3 из 10"
+        },
+        {
+            "id": "14960717",
+            "href": "/sport/lotereja/ssha-florida-pick-3-3-iz-10",
+            "name": "США. Флорида. Pick 3. 3 из 10"
+        }
+    ],
+    "Бильярд": [
+        {
+            "id": "14964233",
+            "href": "/sport/biljard/snuker-players-championship-match-iz-11-ti-frejjmov",
+            "name": "Снукер. Players Championship. Матч из 11-ти фреймов"
+        }
+    ],
+    "Хоккей": [
+        {
+            "id": "14963003",
+            "href": "/sport/khokkejj/nhl-reguljarnyjj-sezon",
+            "name": "NHL. Регулярный сезон"
+        },
+        {
+            "id": "14963704",
+            "href": "/sport/khokkejj/specialnye-predlozhenija",
+            "name": "Специальные предложения"
+        },
+        {
+            "id": "14961100",
+            "href": "/sport/khokkejj/ahl-reguljarnyjj-sezon",
+            "name": "AHL. Регулярный сезон"
+        },
+        {
+            "id": "14962409",
+            "href": "/sport/khokkejj/chempionat-mira",
+            "name": "Чемпионат мира"
+        },
+        {
+            "id": "14962908",
+            "href": "/sport/khokkejj/kkhl-reguljarnyjj-sezon",
+            "name": "КХЛ. Регулярный сезон"
+        },
+        {
+            "id": "14962388",
+            "href": "/sport/khokkejj/vkhl",
+            "name": "ВХЛ"
+        },
+        {
+            "id": "14961792",
+            "href": "/sport/khokkejj/parimatch-mkhl",
+            "name": "Париматч-МХЛ"
+        },
+        {
+            "id": "14964238",
+            "href": "/sport/khokkejj/belarus-parimatch-ehkstraliga-plejj-off",
+            "name": "Беларусь. Париматч-Экстралига. Плей-офф"
+        },
+        {
+            "id": "14963636",
+            "href": "/sport/khokkejj/belarus-parimatch-ehkstraliga-gruppa-3",
+            "name": "Беларусь. Париматч-Экстралига. Группа 3"
+        },
+        {
+            "id": "14961560",
+            "href": "/sport/khokkejj/nmkhl",
+            "name": "НМХЛ"
+        },
+        {
+            "id": "14960274",
+            "href": "/sport/khokkejj/avstrija-erste-bank-liga",
+            "name": "Австрия. Erste Bank Liga"
+        },
+        {
+            "id": "14963225",
+            "href": "/sport/khokkejj/alpijjskaja-liga",
+            "name": "Альпийская лига"
+        },
+        {
+            "id": "14960214",
+            "href": "/sport/khokkejj/germanija-del",
+            "name": "Германия. DEL"
+        },
+        {
+            "id": "14960981",
+            "href": "/sport/khokkejj/danija-metal-ligaen",
+            "name": "Дания. Metal Ligaen"
+        },
+        {
+            "id": "14963181",
+            "href": "/sport/khokkejj/kazakhstan-chempionat",
+            "name": "Казахстан. Чемпионат"
+        },
+        {
+            "id": "14961987",
+            "href": "/sport/khokkejj/latvija-lhl",
+            "name": "Латвия. LHL"
+        },
+        {
+            "id": "14960982",
+            "href": "/sport/khokkejj/norvegija-get-ligaen",
+            "name": "Норвегия. GET-ligaen"
+        },
+        {
+            "id": "14961647",
+            "href": "/sport/khokkejj/polsha-pkhl",
+            "name": "Польша. ПХЛ"
+        },
+        {
+            "id": "14960984",
+            "href": "/sport/khokkejj/slovakija-ehkstraliga",
+            "name": "Словакия. Экстралига"
+        },
+        {
+            "id": "14963179",
+            "href": "/sport/khokkejj/ukraina-ukhl-parimatch",
+            "name": "Украина. УХЛ-Париматч"
+        },
+        {
+            "id": "14960215",
+            "href": "/sport/khokkejj/chekhija-ehkstraliga",
+            "name": "Чехия. Экстралига"
+        },
+        {
+            "id": "14961895",
+            "href": "/sport/khokkejj/chekhija-liga-1",
+            "name": "Чехия. Лига 1"
+        },
+        {
+            "id": "14964105",
+            "href": "/sport/khokkejj/chekhija-molodjozhnyjj-kubok",
+            "name": "Чехия. Молодёжный кубок"
+        },
+        {
+            "id": "14960751",
+            "href": "/sport/khokkejj/finljandija-liiga",
+            "name": "Финляндия. Liiga"
+        },
+        {
+            "id": "14960983",
+            "href": "/sport/khokkejj/francija-ligue-magnus",
+            "name": "Франция. Ligue Magnus"
+        },
+        {
+            "id": "14960979",
+            "href": "/sport/khokkejj/shvecija-shl",
+            "name": "Швеция. SHL"
+        },
+        {
+            "id": "14962365",
+            "href": "/sport/khokkejj/shvecija-ettan",
+            "name": "Швеция. Ettan"
+        },
+        {
+            "id": "14960985",
+            "href": "/sport/khokkejj/shvejjcarija-nla",
+            "name": "Швейцария. NLA"
+        },
+        {
+            "id": "14961346",
+            "href": "/sport/khokkejj/shvejjcarija-nlb",
+            "name": "Швейцария. NLB"
+        },
+        {
+            "id": "14963218",
+            "href": "/sport/khokkejj/erste-liga",
+            "name": "Erste Liga"
+        },
+        {
+            "id": "14963234",
+            "href": "/sport/khokkejj/whl",
+            "name": "WHL"
+        },
+        {
+            "id": "14963190",
+            "href": "/sport/khokkejj/zhkhl",
+            "name": "ЖХЛ"
+        }
+    ],
+    "Развлечения": [
+        {
+            "id": "14962673",
+            "href": "/sport/razvlechenija/evrovidenie-2020",
+            "name": "Евровидение 2020"
+        },
+        {
+            "id": "14963850",
+            "href": "/sport/razvlechenija/kvn",
+            "name": "КВН"
+        },
+        {
+            "id": "14961383",
+            "href": "/sport/razvlechenija/kino-specialnye-stavki",
+            "name": "Кино. Специальные ставки"
+        },
+        {
+            "id": "14962913",
+            "href": "/sport/razvlechenija/znamenitosti",
+            "name": "Знаменитости"
+        }
+    ],
+    "Американский футбол": [
+        {
+            "id": "14964054",
+            "href": "/sport/amerikanskijj-futbol/xfl",
+            "name": "XFL"
+        }
+    ],
+    "Баскетбол": [
+        {
+            "id": "14963021",
+            "href": "/sport/basketbol/nba-reguljarnyjj-sezon",
+            "name": "NBA. Регулярный сезон"
+        },
+        {
+            "id": "14962039",
+            "href": "/sport/basketbol/nba-g-liga",
+            "name": "NBA G-Лига"
+        },
+        {
+            "id": "14961460",
+            "href": "/sport/basketbol/evroliga",
+            "name": "Евролига"
+        },
+        {
+            "id": "14961414",
+            "href": "/sport/basketbol/ispanija-liga-acb",
+            "name": "Испания. Лига ACB"
+        },
+        {
+            "id": "14961463",
+            "href": "/sport/basketbol/niderlandy-eredivisie",
+            "name": "Нидерланды. Eredivisie"
+        },
+        {
+            "id": "14961417",
+            "href": "/sport/basketbol/norvegija-blno",
+            "name": "Норвегия. BLNO"
+        },
+        {
+            "id": "14961421",
+            "href": "/sport/basketbol/polsha-plk",
+            "name": "Польша. PLK"
+        },
+        {
+            "id": "14961465",
+            "href": "/sport/basketbol/rossija-superliga-1",
+            "name": "Россия. Суперлига 1"
+        },
+        {
+            "id": "14961441",
+            "href": "/sport/basketbol/turcija-bsl",
+            "name": "Турция. BSL"
+        },
+        {
+            "id": "14960473",
+            "href": "/sport/basketbol/khorvatija-liga-a-1",
+            "name": "Хорватия. Лига A-1"
+        },
+        {
+            "id": "14960767",
+            "href": "/sport/basketbol/shvecija-ligan",
+            "name": "Швеция. Ligan"
+        },
+        {
+            "id": "14961469",
+            "href": "/sport/basketbol/respublika-koreja-kbl",
+            "name": "Республика Корея. KBL"
+        },
+        {
+            "id": "14961087",
+            "href": "/sport/basketbol/avstralija-nbl",
+            "name": "Австралия. NBL"
+        },
+        {
+            "id": "14961491",
+            "href": "/sport/basketbol/ssha-ncaa",
+            "name": "США. NCAA"
+        },
+        {
+            "id": "14961243",
+            "href": "/sport/basketbol/argentina-lnb",
+            "name": "Аргентина. LNB"
+        },
+        {
+            "id": "14961134",
+            "href": "/sport/basketbol/brazilija-nbb",
+            "name": "Бразилия. NBB"
+        },
+        {
+            "id": "14961076",
+            "href": "/sport/basketbol/urugvajj-lub",
+            "name": "Уругвай. LUB"
+        },
+        {
+            "id": "14961568",
+            "href": "/sport/basketbol/zhenshhiny-evrokubok",
+            "name": "Женщины. Еврокубок"
+        },
+        {
+            "id": "14961091",
+            "href": "/sport/basketbol/zhenshhiny-avstralija-wnbl",
+            "name": "Женщины. Австралия. WNBL"
+        },
+        {
+            "id": "14961418",
+            "href": "/sport/basketbol/zhenshhiny-rossija-premer-liga",
+            "name": "Женщины. Россия. Премьер-лига"
+        },
+        {
+            "id": "14961113",
+            "href": "/sport/basketbol/zhenshhiny-respublika-koreja-wkbl",
+            "name": "Женщины. Республика Корея. WKBL"
+        }
+    ],
+    "Авто-мотоспорт": [
+        {
+            "id": "14963518",
+            "href": "/sport/avto-motosport/formula-1-itogi-pobeditel sezona-2020",
+            "name": "Формула 1. Итоги. Победитель сезона 2020"
+        },
+        {
+            "id": "14963726",
+            "href": "/sport/avto-motosport/formula-1-itogi-kubok-konstruktorov-2020",
+            "name": "Формула 1. Итоги. Кубок конструкторов 2020"
+        }
+    ],
+    "Дартс": [
+        {
+            "id": "14962260",
+            "href": "/sport/darts/muzhchiny-premer-liga-matchi-iz-12-ti-lehgov",
+            "name": "Мужчины. Премьер-лига. Матчи из 12-ти лэгов"
+        }
+    ],
+    "Сквош": [
+        {
+            "id": "14964179",
+            "href": "/sport/skvosh/muzhchiny-windy-city-open",
+            "name": "Мужчины. Windy City Open"
+        },
+        {
+            "id": "14964180",
+            "href": "/sport/skvosh/zhenshhiny-windy-city-open",
+            "name": "Женщины. Windy City Open"
+        }
+    ],
+    "Биатлон": [
+        {
+            "id": "14963475",
+            "href": "/sport/biatlon/muzhchiny-kubok-mira-201920-obshhijj-zachjot",
+            "name": "Мужчины. Кубок мира 2019/20. Общий зачёт"
+        },
+        {
+            "id": "14963484",
+            "href": "/sport/biatlon/zhenshhiny-kubok-mira-201920-obshhijj-zachjot",
+            "name": "Женщины. Кубок мира 2019/20. Общий зачёт"
+        },
+        {
+            "id": "14963951",
+            "href": "/sport/biatlon/chempionat-evropy-minsk-raubichi-smeshanaja-ehstafeta-pobeditel",
+            "name": "Чемпионат Европы. Минск-Раубичи. Смешаная эстафета. Победитель"
+        },
+        {
+            "id": "14963952",
+            "href": "/sport/biatlon/chempionat-evropy-minsk-raubichi-smeshanaja-ehstafeta-kto-vyshe",
+            "name": "Чемпионат Европы. Минск-Раубичи. Смешаная эстафета. Кто выше"
+        },
+        {
+            "id": "14964128",
+            "href": "/sport/biatlon/chempionat-evropy-minsk-raubichi-odinochnaja-smeshannaja-ehstafeta-kto-vyshe",
+            "name": "Чемпионат Европы. Минск-Раубичи. Одиночная смешанная эстафета. Кто выше"
+        }
+    ],
+    "Хоккей на траве": [
+        {
+            "id": "14962375",
+            "href": "/sport/khokkejj-na-trave/pro-league",
+            "name": "Pro League"
+        },
+        {
+            "id": "14962376",
+            "href": "/sport/khokkejj-na-trave/zhenshhiny-pro-league",
+            "name": "Женщины. Pro League"
+        }
+    ],
+    "Теннис": [
+        {
+            "id": "14964057",
+            "href": "/sport/tennis/atp-dubajj-itogi",
+            "name": "ATP. Дубай. Итоги"
+        },
+        {
+            "id": "14964155",
+            "href": "/sport/tennis/atp-dubajj-khard",
+            "name": "ATP. Дубай. Хард"
+        },
+        {
+            "id": "14964157",
+            "href": "/sport/tennis/atp-pary-dubajj-khard",
+            "name": "ATP. Пары. Дубай. Хард"
+        },
+        {
+            "id": "14964066",
+            "href": "/sport/tennis/atp-akapulko-itogi",
+            "name": "ATP. Акапулько. Итоги"
+        },
+        {
+            "id": "14964158",
+            "href": "/sport/tennis/atp-akapulko-khard",
+            "name": "ATP. Акапулько. Хард"
+        },
+        {
+            "id": "14964160",
+            "href": "/sport/tennis/atp-pary-akapulko-khard",
+            "name": "ATP. Пары. Акапулько. Хард"
+        },
+        {
+            "id": "14964161",
+            "href": "/sport/tennis/atp-santjago-grunt",
+            "name": "ATP. Сантьяго. Грунт"
+        },
+        {
+            "id": "14964163",
+            "href": "/sport/tennis/atp-pary-santjago-grunt",
+            "name": "ATP. Пары. Сантьяго. Грунт"
+        },
+        {
+            "id": "14964236",
+            "href": "/sport/tennis/wta-dokha-itogi",
+            "name": "WTA. Доха. Итоги"
+        },
+        {
+            "id": "14964164",
+            "href": "/sport/tennis/wta-dokha-khard",
+            "name": "WTA. Доха. Хард"
+        },
+        {
+            "id": "14964166",
+            "href": "/sport/tennis/wta-pary-dokha-khard",
+            "name": "WTA. Пары. Доха. Хард"
+        },
+        {
+            "id": "14964237",
+            "href": "/sport/tennis/wta-akapulko-itogi",
+            "name": "WTA. Акапулько. Итоги"
+        },
+        {
+            "id": "14964167",
+            "href": "/sport/tennis/wta-akapulko-khard",
+            "name": "WTA. Акапулько. Хард"
+        },
+        {
+            "id": "14964169",
+            "href": "/sport/tennis/wta-pary-akapulko-khard",
+            "name": "WTA. Пары. Акапулько. Хард"
+        },
+        {
+            "id": "14964170",
+            "href": "/sport/tennis/atp-chellendzher-po-khard",
+            "name": "ATP Челленджер. По. Хард"
+        },
+        {
+            "id": "14964172",
+            "href": "/sport/tennis/atp-chellendzher-pary-po-khard",
+            "name": "ATP Челленджер. Пары. По. Хард"
+        },
+        {
+            "id": "14964173",
+            "href": "/sport/tennis/atp-chellendzher-kalgari-khard",
+            "name": "ATP Челленджер. Калгари. Хард"
+        },
+        {
+            "id": "14964175",
+            "href": "/sport/tennis/atp-chellendzher-pary-kalgari-khard",
+            "name": "ATP Челленджер. Пары. Калгари. Хард"
+        },
+        {
+            "id": "14964176",
+            "href": "/sport/tennis/atp-chellendzher-kolambus-khard",
+            "name": "ATP Челленджер. Коламбус. Хард"
+        },
+        {
+            "id": "14964181",
+            "href": "/sport/tennis/itf-muzhchiny-trento-khard",
+            "name": "ITF. Мужчины. Тренто. Хард"
+        },
+        {
+            "id": "14964185",
+            "href": "/sport/tennis/itf-muzhchiny-rio-kuarto-grunt",
+            "name": "ITF. Мужчины. Рио-Куарто. Грунт"
+        },
+        {
+            "id": "14964188",
+            "href": "/sport/tennis/itf-muzhchiny-sanderlend-khard",
+            "name": "ITF. Мужчины. Сандерленд. Хард"
+        },
+        {
+            "id": "14964191",
+            "href": "/sport/tennis/itf-muzhchiny-vale-du-lobo-khard",
+            "name": "ITF. Мужчины. Вале-ду-Лобо. Хард"
+        },
+        {
+            "id": "14964194",
+            "href": "/sport/tennis/itf-muzhchiny-trnava-khard",
+            "name": "ITF. Мужчины. Трнава. Хард"
+        },
+        {
+            "id": "14962212",
+            "href": "/sport/tennis/itf-muzhchiny-monastir-khard",
+            "name": "ITF. Мужчины. Монастир. Хард"
+        },
+        {
+            "id": "14964048",
+            "href": "/sport/tennis/itf-muzhchiny-iraklion-khard",
+            "name": "ITF. Мужчины. Ираклион. Хард"
+        },
+        {
+            "id": "14962215",
+            "href": "/sport/tennis/itf-muzhchiny-antalja-grunt",
+            "name": "ITF. Мужчины. Анталья. Грунт"
+        },
+        {
+            "id": "14963980",
+            "href": "/sport/tennis/itf-muzhchiny-sharm-ehsh-shejjkh-khard",
+            "name": "ITF. Мужчины. Шарм-эш-Шейх. Хард"
+        },
+        {
+            "id": "14964101",
+            "href": "/sport/tennis/itf-zhenshhiny-pert-khard",
+            "name": "ITF. Женщины. Перт. Хард"
+        },
+        {
+            "id": "14964197",
+            "href": "/sport/tennis/itf-zhenshhiny-rancho-santa-fe-khard",
+            "name": "ITF. Женщины. Ранчо-Санта-Фе. Хард"
+        },
+        {
+            "id": "14964200",
+            "href": "/sport/tennis/itf-zhenshhiny-altenkirkhen-kover",
+            "name": "ITF. Женщины. Альтенкирхен. Ковер"
+        },
+        {
+            "id": "14964203",
+            "href": "/sport/tennis/itf-zhenshhiny-sanderlend-khard",
+            "name": "ITF. Женщины. Сандерленд. Хард"
+        },
+        {
+            "id": "14964206",
+            "href": "/sport/tennis/itf-zhenshhiny-makon-khard",
+            "name": "ITF. Женщины. Макон. Хард"
+        },
+        {
+            "id": "14964209",
+            "href": "/sport/tennis/itf-zhenshhiny-moskva-khard",
+            "name": "ITF. Женщины. Москва. Хард"
+        },
+        {
+            "id": "14964051",
+            "href": "/sport/tennis/itf-zhenshhiny-iraklion-grunt",
+            "name": "ITF. Женщины. Ираклион. Грунт"
+        },
+        {
+            "id": "14963487",
+            "href": "/sport/tennis/itf-zhenshhiny-monastir-khard",
+            "name": "ITF. Женщины. Монастир. Хард"
+        }
+    ],
+    "Настольный теннис": [
+        {
+            "id": "14962072",
+            "href": "/sport/nastolnyjj-tennis/muzhchiny-challenger-series",
+            "name": "Мужчины. Challenger Series"
+        }
+    ],
+    "Шахматы": [
+        {
+            "id": "14964138",
+            "href": "/sport/shakhmaty/mezhdunarodnyjj-turnir-moskva",
+            "name": "Международный турнир. Москва"
+        },
+        {
+            "id": "14964139",
+            "href": "/sport/shakhmaty/turnir-pretendentov-ekaterinburg",
+            "name": "Турнир претендентов. Екатеринбург"
+        },
+        {
+            "id": "14963970",
+            "href": "/sport/shakhmaty/turnir-pretendentov-itogi",
+            "name": "Турнир претендентов. Итоги"
+        }
+    ],
+    "Австралийский футбол": [
+        {
+            "id": "14962253",
+            "href": "/sport/avstralijjskijj-futbol/zhenshhiny-afl",
+            "name": "Женщины. AFL"
+        }
+    ],
+    "UFC": [
+        {
+            "id": "14963651",
+            "href": "/sport/ufc/248-08032020",
+            "name": "248 (08/03/2020)"
+        },
+        {
+            "id": "14963643",
+            "href": "/sport/ufc/249-19042020",
+            "name": "249 (19/04/2020)"
+        },
+        {
+            "id": "14963932",
+            "href": "/sport/ufc/250-10052020",
+            "name": "250 (10/05/2020)"
+        },
+        {
+            "id": "14964183",
+            "href": "/sport/ufc/251-06062020",
+            "name": "251 (06/06/2020)"
+        },
+        {
+            "id": "14963746",
+            "href": "/sport/ufc/on-espn-8-29032020",
+            "name": "on ESPN 8 (29/03/2020)"
+        },
+        {
+            "id": "14963770",
+            "href": "/sport/ufc/fight-night-169-01032020",
+            "name": "Fight Night 169 (01/03/2020)"
+        },
+        {
+            "id": "14963650",
+            "href": "/sport/ufc/fight-night-170-15032020",
+            "name": "Fight Night 170 (15/03/2020)"
+        },
+        {
+            "id": "14963720",
+            "href": "/sport/ufc/fight-night-171-21032020",
+            "name": "Fight Night 171 (21/03/2020)"
+        },
+        {
+            "id": "14963824",
+            "href": "/sport/ufc/fight-night-172-12042020",
+            "name": "Fight Night 172 (12/04/2020)"
+        },
+        {
+            "id": "14963955",
+            "href": "/sport/ufc/fight-night-173-26042020",
+            "name": "Fight Night 173 (26/04/2020)"
+        },
+        {
+            "id": "14964095",
+            "href": "/sport/ufc/fight-night-174-03052020",
+            "name": "Fight Night 174 (03/05/2020)"
+        },
+        {
+            "id": "14964229",
+            "href": "/sport/ufc/fight-night-175-17052020",
+            "name": "Fight Night 175 (17/05/2020)"
+        },
+        {
+            "id": "14961871",
+            "href": "/sport/ufc/specialnye-stavki",
+            "name": "Специальные ставки"
+        },
+        {
+            "id": "14961156",
+            "href": "/sport/ufc/vozmozhnye-boi",
+            "name": "Возможные бои"
+        }
+    ],
+    "Бокс": [
+        {
+            "id": "14960256",
+            "href": "/sport/boks/boks",
+            "name": "Бокс"
+        },
+        {
+            "id": "14963414",
+            "href": "/sport/boks/vozmozhnye-boi",
+            "name": "Возможные бои"
+        }
+    ],
+    "Футбол": [
+        {
+            "id": "14961130",
+            "href": "/sport/futbol/specialnye-predlozhenija",
+            "name": "Специальные предложения"
+        },
+        {
+            "id": "14961903",
+            "href": "/sport/futbol/sravnenie-po-individualnomu-totalu",
+            "name": "Сравнение по индивидуальному тоталу"
+        },
+        {
+            "id": "14963681",
+            "href": "/sport/futbol/chempionat-evropy-gruppovojj-ehtap",
+            "name": "Чемпионат Европы. Групповой этап"
+        },
+        {
+            "id": "14962106",
+            "href": "/sport/futbol/chempionat-evropy-kvalifikacija",
+            "name": "Чемпионат Европы. Квалификация"
+        },
+        {
+            "id": "14962343",
+            "href": "/sport/futbol/kopa-amerika",
+            "name": "Копа Америка"
+        },
+        {
+            "id": "14963763",
+            "href": "/sport/futbol/liga-chempionov-uefa-plejj-off",
+            "name": "Лига чемпионов УЕФА. Плей-офф"
+        },
+        {
+            "id": "14963764",
+            "href": "/sport/futbol/liga-evropy-uefa-plejj-off",
+            "name": "Лига Европы УЕФА. Плей-офф"
+        },
+        {
+            "id": "14961194",
+            "href": "/sport/futbol/kubok-libertadores",
+            "name": "Кубок Либертадорес"
+        },
+        {
+            "id": "14961285",
+            "href": "/sport/futbol/anglija-premer-liga",
+            "name": "Англия. Премьер-лига"
+        },
+        {
+            "id": "14960994",
+            "href": "/sport/futbol/anglija-chempionship",
+            "name": "Англия. Чемпионшип"
+        },
+        {
+            "id": "14960321",
+            "href": "/sport/futbol/anglija-kubok",
+            "name": "Англия. Кубок"
+        },
+        {
+            "id": "14961031",
+            "href": "/sport/futbol/anglija-kubok-ligi",
+            "name": "Англия. Кубок лиги"
+        },
+        {
+            "id": "14961300",
+            "href": "/sport/futbol/ispanija-primera",
+            "name": "Испания. Примера"
+        },
+        {
+            "id": "14961315",
+            "href": "/sport/futbol/ispanija-segunda",
+            "name": "Испания. Сегунда"
+        },
+        {
+            "id": "14961575",
+            "href": "/sport/futbol/ispanija-kubok-korolja",
+            "name": "Испания. Кубок Короля"
+        },
+        {
+            "id": "14961876",
+            "href": "/sport/futbol/germanija-bundesliga",
+            "name": "Германия. Бундеслига"
+        },
+        {
+            "id": "14960445",
+            "href": "/sport/futbol/germanija-bundesliga-2",
+            "name": "Германия. Бундеслига 2"
+        },
+        {
+            "id": "14960446",
+            "href": "/sport/futbol/germanija-kubok",
+            "name": "Германия. Кубок"
+        },
+        {
+            "id": "14962982",
+            "href": "/sport/futbol/italija-serija-a",
+            "name": "Италия. Серия А"
+        },
+        {
+            "id": "14960135",
+            "href": "/sport/futbol/italija-kubok",
+            "name": "Италия. Кубок"
+        },
+        {
+            "id": "14960660",
+            "href": "/sport/futbol/italija-serija-v",
+            "name": "Италия. Серия В"
+        },
+        {
+            "id": "14961005",
+            "href": "/sport/futbol/francija-liga-1",
+            "name": "Франция. Лига 1"
+        },
+        {
+            "id": "14961006",
+            "href": "/sport/futbol/francija-liga-2",
+            "name": "Франция. Лига 2"
+        },
+        {
+            "id": "14961008",
+            "href": "/sport/futbol/francija-kubok",
+            "name": "Франция. Кубок"
+        },
+        {
+            "id": "14961022",
+            "href": "/sport/futbol/francija-kubok-ligi",
+            "name": "Франция. Кубок лиги"
+        },
+        {
+            "id": "14962433",
+            "href": "/sport/futbol/ukraina-premer-liga",
+            "name": "Украина. Премьер-лига"
+        },
+        {
+            "id": "14961778",
+            "href": "/sport/futbol/rossija-premer-liga",
+            "name": "Россия. Премьер-лига"
+        },
+        {
+            "id": "14960196",
+            "href": "/sport/futbol/rossija-kubok",
+            "name": "Россия. Кубок"
+        },
+        {
+            "id": "14961201",
+            "href": "/sport/futbol/rossija-kubok-fnl",
+            "name": "Россия. Кубок ФНЛ"
+        },
+        {
+            "id": "14960534",
+            "href": "/sport/futbol/molodjozhnye-sbornye-u-23-tovarishheskie-matchi",
+            "name": "Молодёжные сборные U-23. Товарищеские матчи"
+        },
+        {
+            "id": "14961175",
+            "href": "/sport/futbol/kluby-tovarishheskie-matchi",
+            "name": "Клубы. Товарищеские матчи"
+        },
+        {
+            "id": "14960703",
+            "href": "/sport/futbol/avstrija-bundesliga",
+            "name": "Австрия. Бундеслига"
+        },
+        {
+            "id": "14961312",
+            "href": "/sport/futbol/avstrija-liga-2",
+            "name": "Австрия. Лига 2"
+        },
+        {
+            "id": "14960620",
+            "href": "/sport/futbol/avstrija-regionalnaja-liga",
+            "name": "Австрия. Региональная лига"
+        },
+        {
+            "id": "14960201",
+            "href": "/sport/futbol/avstrija-kubok",
+            "name": "Австрия. Кубок"
+        },
+        {
+            "id": "14960319",
+            "href": "/sport/futbol/azerbajjdzhan-pervyjj-divizion",
+            "name": "Азербайджан. Первый дивизион"
+        },
+        {
+            "id": "14960228",
+            "href": "/sport/futbol/anglija-liga-1",
+            "name": "Англия. Лига 1"
+        },
+        {
+            "id": "14960229",
+            "href": "/sport/futbol/anglija-liga-2",
+            "name": "Англия. Лига 2"
+        },
+        {
+            "id": "14960230",
+            "href": "/sport/futbol/anglija-nacionalnaja-konferencija",
+            "name": "Англия. Национальная конференция"
+        },
+        {
+            "id": "14960878",
+            "href": "/sport/futbol/anglija-juzhnaja-konferencija",
+            "name": "Англия. Южная конференция"
+        },
+        {
+            "id": "14960896",
+            "href": "/sport/futbol/anglija-severnaja-konferencija",
+            "name": "Англия. Северная конференция"
+        },
+        {
+            "id": "14960269",
+            "href": "/sport/futbol/anglija-severnaja-premer-liga",
+            "name": "Англия. Северная Премьер-лига"
+        },
+        {
+            "id": "14960270",
+            "href": "/sport/futbol/anglija-juzhnaja-premer-liga",
+            "name": "Англия. Южная Премьер-лига"
+        },
+        {
+            "id": "14960271",
+            "href": "/sport/futbol/anglija-istmijjskaja-liga-premer-divizion",
+            "name": "Англия. Истмийская лига. Премьер-дивизион"
+        },
+        {
+            "id": "14960239",
+            "href": "/sport/futbol/armenija-premer-liga",
+            "name": "Армения. Премьер-лига"
+        },
+        {
+            "id": "14960701",
+            "href": "/sport/futbol/belgija-pervyjj-divizion-a",
+            "name": "Бельгия. Первый дивизион А"
+        },
+        {
+            "id": "14961029",
+            "href": "/sport/futbol/belgija-pervyjj-divizion-v",
+            "name": "Бельгия. Первый дивизион В"
+        },
+        {
+            "id": "14960268",
+            "href": "/sport/futbol/belgija-beloften-pro-liga-u-21",
+            "name": "Бельгия. Белофтен Про-лига U-21"
+        },
+        {
+            "id": "14960576",
+            "href": "/sport/futbol/bolgarija-gruppa-a",
+            "name": "Болгария. Группа А"
+        },
+        {
+            "id": "14960629",
+            "href": "/sport/futbol/bolgarija-gruppa-b",
+            "name": "Болгария. Группа Б"
+        },
+        {
+            "id": "14960242",
+            "href": "/sport/futbol/bosnija-i-gercegovina-premer-liga",
+            "name": "Босния и Герцеговина. Премьер-лига"
+        },
+        {
+            "id": "14961305",
+            "href": "/sport/futbol/vengrija-liga-nb-i",
+            "name": "Венгрия. Лига NB I"
+        },
+        {
+            "id": "14960211",
+            "href": "/sport/futbol/germanija-liga-3",
+            "name": "Германия. Лига 3"
+        },
+        {
+            "id": "14960207",
+            "href": "/sport/futbol/germanija-regionalnaja-liga-sever",
+            "name": "Германия. Региональная лига. Север"
+        },
+        {
+            "id": "14960218",
+            "href": "/sport/futbol/germanija-regionalnaja-liga-severo-vostok",
+            "name": "Германия. Региональная лига. Северо-восток"
+        },
+        {
+            "id": "14960219",
+            "href": "/sport/futbol/germanija-regionalnaja-liga-zapad",
+            "name": "Германия. Региональная лига. Запад"
+        },
+        {
+            "id": "14960220",
+            "href": "/sport/futbol/germanija-regionalnaja-liga-jugo-zapad",
+            "name": "Германия. Региональная лига. Юго-запад"
+        },
+        {
+            "id": "14960221",
+            "href": "/sport/futbol/germanija-regionalnaja-liga-bavarija",
+            "name": "Германия. Региональная лига. Бавария"
+        },
+        {
+            "id": "14963297",
+            "href": "/sport/futbol/germanija-oberliga",
+            "name": "Германия. Оберлига"
+        },
+        {
+            "id": "14963108",
+            "href": "/sport/futbol/gibraltar-nacionalnaja-liga",
+            "name": "Гибралтар. Национальная Лига"
+        },
+        {
+            "id": "14960253",
+            "href": "/sport/futbol/grecija-superliga-1",
+            "name": "Греция. Суперлига 1"
+        },
+        {
+            "id": "14960281",
+            "href": "/sport/futbol/grecija-kubok",
+            "name": "Греция. Кубок"
+        },
+        {
+            "id": "14960811",
+            "href": "/sport/futbol/grecija-superliga-2",
+            "name": "Греция. Суперлига 2"
+        },
+        {
+            "id": "14960699",
+            "href": "/sport/futbol/danija-superliga",
+            "name": "Дания. Суперлига"
+        },
+        {
+            "id": "14960217",
+            "href": "/sport/futbol/danija-pervyjj-divizion",
+            "name": "Дания. Первый дивизион"
+        },
+        {
+            "id": "14960243",
+            "href": "/sport/futbol/danija-kubok",
+            "name": "Дания. Кубок"
+        },
+        {
+            "id": "14960261",
+            "href": "/sport/futbol/izrail-premer-liga",
+            "name": "Израиль. Премьер-лига"
+        },
+        {
+            "id": "14960276",
+            "href": "/sport/futbol/izrail-nacionalnaja-liga",
+            "name": "Израиль. Национальная лига"
+        },
+        {
+            "id": "14960383",
+            "href": "/sport/futbol/irlandija-premer-divizion",
+            "name": "Ирландия. Премьер-дивизион"
+        },
+        {
+            "id": "14960176",
+            "href": "/sport/futbol/irlandija-pervyjj-divizion",
+            "name": "Ирландия. Первый дивизион"
+        },
+        {
+            "id": "14960513",
+            "href": "/sport/futbol/ispanija-segunda-v-gruppa-1",
+            "name": "Испания. Сегунда В. Группа 1"
+        },
+        {
+            "id": "14960514",
+            "href": "/sport/futbol/ispanija-segunda-v-gruppa-2",
+            "name": "Испания. Сегунда В. Группа 2"
+        },
+        {
+            "id": "14960515",
+            "href": "/sport/futbol/ispanija-segunda-v-gruppa-3",
+            "name": "Испания. Сегунда В. Группа 3"
+        },
+        {
+            "id": "14960516",
+            "href": "/sport/futbol/ispanija-segunda-v-gruppa-4",
+            "name": "Испания. Сегунда В. Группа 4"
+        },
+        {
+            "id": "14960466",
+            "href": "/sport/futbol/ispanija-tersera",
+            "name": "Испания. Терсера"
+        },
+        {
+            "id": "14962960",
+            "href": "/sport/futbol/kazakhstan-superkubok",
+            "name": "Казахстан. Суперкубок"
+        },
+        {
+            "id": "14960265",
+            "href": "/sport/futbol/kipr-divizion-1",
+            "name": "Кипр. Дивизион 1"
+        },
+        {
+            "id": "14961732",
+            "href": "/sport/futbol/niderlandy-eredivisie",
+            "name": "Нидерланды. Eredivisie"
+        },
+        {
+            "id": "14960232",
+            "href": "/sport/futbol/niderlandy-pervyjj-divizion",
+            "name": "Нидерланды. Первый дивизион"
+        },
+        {
+            "id": "14960222",
+            "href": "/sport/futbol/polsha-ehkstraklasa",
+            "name": "Польша. Экстракласа"
+        },
+        {
+            "id": "14960414",
+            "href": "/sport/futbol/polsha-liga-1",
+            "name": "Польша. Лига 1"
+        },
+        {
+            "id": "14960249",
+            "href": "/sport/futbol/portugalija-primejjra-liga",
+            "name": "Португалия. Примейра-лига"
+        },
+        {
+            "id": "14961316",
+            "href": "/sport/futbol/portugalija-liga-pro",
+            "name": "Португалия. Лига-Про"
+        },
+        {
+            "id": "14961842",
+            "href": "/sport/futbol/portugalija-chempionat-u-23",
+            "name": "Португалия. Чемпионат U-23"
+        },
+        {
+            "id": "14960209",
+            "href": "/sport/futbol/rossija-molodjozhnoe-pervenstvo",
+            "name": "Россия. Молодёжное первенство"
+        },
+        {
+            "id": "14960223",
+            "href": "/sport/futbol/rumynija-liga-1",
+            "name": "Румыния. Лига 1"
+        },
+        {
+            "id": "14961234",
+            "href": "/sport/futbol/rumynija-kubok",
+            "name": "Румыния. Кубок"
+        },
+        {
+            "id": "14961570",
+            "href": "/sport/futbol/severnaja-irlandija-kubok",
+            "name": "Северная Ирландия. Кубок"
+        },
+        {
+            "id": "14960247",
+            "href": "/sport/futbol/serbija-superliga",
+            "name": "Сербия. Суперлига"
+        },
+        {
+            "id": "14960204",
+            "href": "/sport/futbol/slovakija-superliga",
+            "name": "Словакия. Суперлига"
+        },
+        {
+            "id": "14960203",
+            "href": "/sport/futbol/slovenija-liga-1",
+            "name": "Словения. Лига 1"
+        },
+        {
+            "id": "14960403",
+            "href": "/sport/futbol/turcija-superliga",
+            "name": "Турция. Суперлига"
+        },
+        {
+            "id": "14960250",
+            "href": "/sport/futbol/turcija-liga-1",
+            "name": "Турция. Лига 1"
+        },
+        {
+            "id": "14961209",
+            "href": "/sport/futbol/uehls-kubok",
+            "name": "Уэльс. Кубок"
+        },
+        {
+            "id": "14960575",
+            "href": "/sport/futbol/finljandija-kubok",
+            "name": "Финляндия. Кубок"
+        },
+        {
+            "id": "14960233",
+            "href": "/sport/futbol/francija-nacionalnyjj-divizion",
+            "name": "Франция. Национальный дивизион"
+        },
+        {
+            "id": "14960202",
+            "href": "/sport/futbol/khorvatija-liga-1",
+            "name": "Хорватия. Лига 1"
+        },
+        {
+            "id": "14961307",
+            "href": "/sport/futbol/chekhija-pervaja-liga",
+            "name": "Чехия. Первая лига"
+        },
+        {
+            "id": "14960212",
+            "href": "/sport/futbol/chekhija-kubok",
+            "name": "Чехия. Кубок"
+        },
+        {
+            "id": "14960205",
+            "href": "/sport/futbol/shvejjcarija-superliga",
+            "name": "Швейцария. Суперлига"
+        },
+        {
+            "id": "14960206",
+            "href": "/sport/futbol/shvejjcarija-chellendzh-liga",
+            "name": "Швейцария. Челлендж-лига"
+        },
+        {
+            "id": "14960679",
+            "href": "/sport/futbol/shvecija-kubok",
+            "name": "Швеция. Кубок"
+        },
+        {
+            "id": "14960691",
+            "href": "/sport/futbol/shotlandija-premership",
+            "name": "Шотландия. Премьершип"
+        },
+        {
+            "id": "14960231",
+            "href": "/sport/futbol/shotlandija-chempionship",
+            "name": "Шотландия. Чемпионшип"
+        },
+        {
+            "id": "14960257",
+            "href": "/sport/futbol/shotlandija-liga-1",
+            "name": "Шотландия. Лига 1"
+        },
+        {
+            "id": "14960280",
+            "href": "/sport/futbol/shotlandija-liga-2",
+            "name": "Шотландия. Лига 2"
+        },
+        {
+            "id": "14960381",
+            "href": "/sport/futbol/shotlandija-kubok",
+            "name": "Шотландия. Кубок"
+        },
+        {
+            "id": "14960234",
+            "href": "/sport/futbol/juzhnoamerikanskijj-kubok",
+            "name": "Южноамериканский кубок"
+        },
+        {
+            "id": "14960900",
+            "href": "/sport/futbol/kubok-libertadores-u-20",
+            "name": "Кубок Либертадорес U-20"
+        },
+        {
+            "id": "14960365",
+            "href": "/sport/futbol/argentina-primera-divizion",
+            "name": "Аргентина. Примера дивизион"
+        },
+        {
+            "id": "14962587",
+            "href": "/sport/futbol/argentina- kubok",
+            "name": "Аргентина.  Кубок"
+        },
+        {
+            "id": "14960378",
+            "href": "/sport/futbol/argentina-rezervnaja-liga",
+            "name": "Аргентина. Резервная лига"
+        },
+        {
+            "id": "14960235",
+            "href": "/sport/futbol/bolivija-lfpb",
+            "name": "Боливия. LFPB"
+        },
+        {
+            "id": "14960388",
+            "href": "/sport/futbol/brazilija-kubok",
+            "name": "Бразилия. Кубок"
+        },
+        {
+            "id": "14960352",
+            "href": "/sport/futbol/brazilija-kubok-nordeste",
+            "name": "Бразилия. Кубок Нордесте"
+        },
+        {
+            "id": "14960141",
+            "href": "/sport/futbol/kolumbija-primera-a",
+            "name": "Колумбия. Примера А"
+        },
+        {
+            "id": "14960225",
+            "href": "/sport/futbol/paragvajj-primera-divizion",
+            "name": "Парагвай. Примера дивизион"
+        },
+        {
+            "id": "14960142",
+            "href": "/sport/futbol/peru-primera-divizion",
+            "name": "Перу. Примера дивизион"
+        },
+        {
+            "id": "14960237",
+            "href": "/sport/futbol/chili-primera-divizion",
+            "name": "Чили. Примера дивизион"
+        },
+        {
+            "id": "14960134",
+            "href": "/sport/futbol/ehkvador-serija-a",
+            "name": "Эквадор. Серия А"
+        },
+        {
+            "id": "14960245",
+            "href": "/sport/futbol/liga-chempionov-konkakaf",
+            "name": "Лига чемпионов КОНКАКАФ"
+        },
+        {
+            "id": "14960278",
+            "href": "/sport/futbol/mls",
+            "name": "MLS"
+        },
+        {
+            "id": "14960411",
+            "href": "/sport/futbol/barbados-premer-liga",
+            "name": "Барбадос. Премьер-лига"
+        },
+        {
+            "id": "14960328",
+            "href": "/sport/futbol/meksika-liga-mx",
+            "name": "Мексика. Лига MX"
+        },
+        {
+            "id": "14960455",
+            "href": "/sport/futbol/meksika-assenso-liga",
+            "name": "Мексика. Ассенсо лига"
+        },
+        {
+            "id": "14964134",
+            "href": "/sport/futbol/kubok-arabskikh-nacijj-u-20",
+            "name": "Кубок арабских наций U-20"
+        },
+        {
+            "id": "14960158",
+            "href": "/sport/futbol/bakhrejjn-premer-liga",
+            "name": "Бахрейн. Премьер-лига"
+        },
+        {
+            "id": "14961947",
+            "href": "/sport/futbol/bakhrejjn- vtorojj divizion",
+            "name": "Бахрейн.  Второй дивизион"
+        },
+        {
+            "id": "14960851",
+            "href": "/sport/futbol/indija-i-liga-divizion-2",
+            "name": "Индия. I-Лига. Дивизион 2"
+        },
+        {
+            "id": "14960392",
+            "href": "/sport/futbol/indija-mumbai-ehlitnyjj-divizion",
+            "name": "Индия. Мумбаи. Элитный дивизион"
+        },
+        {
+            "id": "14964047",
+            "href": "/sport/futbol/indija-manipur-msl",
+            "name": "Индия. Манипур. MSL"
+        },
+        {
+            "id": "14960216",
+            "href": "/sport/futbol/iran-pro-liga",
+            "name": "Иран. Про-лига"
+        },
+        {
+            "id": "14961071",
+            "href": "/sport/futbol/katar-starz-liga",
+            "name": "Катар. Старз-лига"
+        },
+        {
+            "id": "14968469",
+            "href": "/sport/futbol/nepal-divizion-v",
+            "name": "Непал. Дивизион В"
+        },
+        {
+            "id": "14961244",
+            "href": "/sport/futbol/oaeh-arabian-gulf-league",
+            "name": "ОАЭ. Arabian Gulf League"
+        },
+        {
+            "id": "14960907",
+            "href": "/sport/futbol/oaeh-divizion-1",
+            "name": "ОАЭ. Дивизион 1"
+        },
+        {
+            "id": "14960324",
+            "href": "/sport/futbol/oaeh-chempionat-u-19",
+            "name": "ОАЭ. Чемпионат U-19"
+        },
+        {
+            "id": "14960759",
+            "href": "/sport/futbol/oman-premer-liga",
+            "name": "Оман. Премьер-лига"
+        },
+        {
+            "id": "14960193",
+            "href": "/sport/futbol/respublika-koreja-liga-k1",
+            "name": "Республика Корея. Лига К1"
+        },
+        {
+            "id": "14960266",
+            "href": "/sport/futbol/saudovskaja-aravija-pro-liga",
+            "name": "Саудовская Аравия. Про-лига"
+        },
+        {
+            "id": "14962016",
+            "href": "/sport/futbol/saudovskaja-aravija-divizion-2",
+            "name": "Саудовская Аравия. Дивизион 2"
+        },
+        {
+            "id": "14960143",
+            "href": "/sport/futbol/japonija-j1-liga",
+            "name": "Япония. J1-Лига"
+        },
+        {
+            "id": "14961737",
+            "href": "/sport/futbol/liga-chempionov-kaf",
+            "name": "Лига чемпионов КАФ"
+        },
+        {
+            "id": "14963828",
+            "href": "/sport/futbol/alzhir- liga 1",
+            "name": "Алжир.  Лига 1"
+        },
+        {
+            "id": "14960292",
+            "href": "/sport/futbol/alzhir-liga-2",
+            "name": "Алжир. Лига 2"
+        },
+        {
+            "id": "14960602",
+            "href": "/sport/futbol/uganda-premer-liga",
+            "name": "Уганда. Премьер-лига"
+        },
+        {
+            "id": "14960279",
+            "href": "/sport/futbol/juar-psl",
+            "name": "ЮАР. PSL"
+        },
+        {
+            "id": "14960297",
+            "href": "/sport/futbol/avstralija-a-liga",
+            "name": "Австралия. А-Лига"
+        },
+        {
+            "id": "14964089",
+            "href": "/sport/futbol/avstralija-viktorija-nacionalnaja-premer-liga",
+            "name": "Австралия. Виктория. Национальная Премьер-лига"
+        },
+        {
+            "id": "14964241",
+            "href": "/sport/futbol/avstralija- juzhnaja avstralija-nacionalnaja-premer-liga",
+            "name": "Австралия.  Южная Австралия. Национальная Премьер-лига"
+        },
+        {
+            "id": "14964227",
+            "href": "/sport/futbol/zhenshhiny-chempionat-konkakaf-u-20",
+            "name": "Женщины. Чемпионат КОНКАКАФ U-20"
+        },
+        {
+            "id": "14960768",
+            "href": "/sport/futbol/zhenshhiny-molodjozhnye-sbornye-tovarishheskie-matchi-u-19",
+            "name": "Женщины. Молодёжные сборные. Товарищеские матчи U-19"
+        },
+        {
+            "id": "14960322",
+            "href": "/sport/futbol/zhenshhiny-avstralija-w-liga",
+            "name": "Женщины. Австралия. W-Лига"
+        },
+        {
+            "id": "14960746",
+            "href": "/sport/futbol/zhenshhiny-belgija-superliga",
+            "name": "Женщины. Бельгия. Суперлига"
+        },
+        {
+            "id": "14962868",
+            "href": "/sport/futbol/zhenshhiny-meksika-liga-mkh",
+            "name": "Женщины. Мексика. Лига МХ"
+        },
+        {
+            "id": "14968769",
+            "href": "/sport/futbol/salvador-segunda-divizion",
+            "name": "Сальвадор. Сегунда дивизион"
+        }
+    ],
+    "Хоккей с мячом": [
+        {
+            "id": "14961347",
+            "href": "/sport/khokkejj-s-mjachom/rossija-superliga",
+            "name": "Россия. Суперлига"
+        },
+        {
+            "id": "14961350",
+            "href": "/sport/khokkejj-s-mjachom/shvecija-ehlitserija",
+            "name": "Швеция. Элитсерия"
+        },
+        {
+            "id": "14961353",
+            "href": "/sport/khokkejj-s-mjachom/norvegija-premer-liga",
+            "name": "Норвегия. Премьер-лига"
+        }
+    ],
+    "Разное": [
+        {
+            "id": "14961384",
+            "href": "/sport/raznoe/kosmos",
+            "name": "Космос"
+        }
+    ],
+    "Гандбол": [
+        {
+            "id": "14961877",
+            "href": "/sport/gandbol/liga-chempionov",
+            "name": "Лига чемпионов"
+        },
+        {
+            "id": "14961849",
+            "href": "/sport/gandbol/kubok-egf",
+            "name": "Кубок ЕГФ"
+        },
+        {
+            "id": "14961361",
+            "href": "/sport/gandbol/avstrija-hla",
+            "name": "Австрия. HLA"
+        },
+        {
+            "id": "14961811",
+            "href": "/sport/gandbol/germanija-bundesliga",
+            "name": "Германия. Бундеслига"
+        },
+        {
+            "id": "14961576",
+            "href": "/sport/gandbol/ispanija-liga-asobal",
+            "name": "Испания. Liga Asobal"
+        },
+        {
+            "id": "14961751",
+            "href": "/sport/gandbol/rumynija-nacionalnaja-liga",
+            "name": "Румыния. Национальная лига"
+        },
+        {
+            "id": "14962034",
+            "href": "/sport/gandbol/francija-lnh-divizion-1",
+            "name": "Франция. LNH. Дивизион 1"
+        },
+        {
+            "id": "14963119",
+            "href": "/sport/gandbol/shvecija-handbollsligan",
+            "name": "Швеция. Handbollsligan"
+        },
+        {
+            "id": "14961814",
+            "href": "/sport/gandbol/shvejjcarija-nla",
+            "name": "Швейцария. NLA"
+        },
+        {
+            "id": "14961853",
+            "href": "/sport/gandbol/zhenshhiny-liga-chempionov",
+            "name": "Женщины. Лига чемпионов"
+        },
+        {
+            "id": "14961869",
+            "href": "/sport/gandbol/zhenshhiny-kubok-egf",
+            "name": "Женщины. Кубок ЕГФ"
+        },
+        {
+            "id": "14962314",
+            "href": "/sport/gandbol/zhenshhiny-danija-divizion-1",
+            "name": "Женщины. Дания. Дивизион 1"
+        },
+        {
+            "id": "14961859",
+            "href": "/sport/gandbol/zhenshhiny-polsha-superliga",
+            "name": "Женщины. Польша. Суперлига"
+        },
+        {
+            "id": "14961927",
+            "href": "/sport/gandbol/zhenshhiny-rossija-kubok",
+            "name": "Женщины. Россия. Кубок"
+        },
+        {
+            "id": "14961897",
+            "href": "/sport/gandbol/zhenshhiny-shvecija-she",
+            "name": "Женщины. Швеция. SHE"
+        }
+    ],
+    "Политика": [
+        {
+            "id": "14962832",
+            "href": "/sport/politika/ukraina-prezidentskie-vybory",
+            "name": "Украина. Президентские выборы"
+        },
+        {
+            "id": "14962886",
+            "href": "/sport/politika/ukraina-specialnye-predlozhenija",
+            "name": "Украина. Специальные предложения"
+        },
+        {
+            "id": "14961246",
+            "href": "/sport/politika/ssha",
+            "name": "США"
+        }
+    ],
+    "Футзал": [
+        {
+            "id": "14961500",
+            "href": "/sport/futzal/rossija-kubok",
+            "name": "Россия. Кубок"
+        },
+        {
+            "id": "14961874",
+            "href": "/sport/futzal/chekhija-liga-1",
+            "name": "Чехия. Лига 1"
+        }
+    ],
+    "Футбол/Итоги": [
+        {
+            "id": "14961017",
+            "href": "/sport/futbolitogi/futbol-chempionat-evropy-2020",
+            "name": "Футбол. Чемпионат Европы 2020"
+        },
+        {
+            "id": "14963605",
+            "href": "/sport/futbolitogi/futbol-chempionat-evropy-2020-kvalifikacija-itogi",
+            "name": "Футбол. Чемпионат Европы 2020. Квалификация"
+        },
+        {
+            "id": "14963945",
+            "href": "/sport/futbolitogi/futbol-chempionat-evropy-2020-gruppa-a-itogi",
+            "name": "Футбол. Чемпионат Европы 2020. Группа А"
+        },
+        {
+            "id": "14963912",
+            "href": "/sport/futbolitogi/futbol-chempionat-evropy-2020-gruppa-v-itogi",
+            "name": "Футбол. Чемпионат Европы 2020. Группа В"
+        },
+        {
+            "id": "14963946",
+            "href": "/sport/futbolitogi/futbol-chempionat-evropy-2020-gruppa-s-itogi",
+            "name": "Футбол. Чемпионат Европы 2020. Группа С"
+        },
+        {
+            "id": "14963933",
+            "href": "/sport/futbolitogi/futbol-chempionat-evropy-2020-gruppa-d-itogi",
+            "name": "Футбол. Чемпионат Европы 2020. Группа D"
+        },
+        {
+            "id": "14963947",
+            "href": "/sport/futbolitogi/futbol-chempionat-evropy-2020-gruppa-e-itogi",
+            "name": "Футбол. Чемпионат Европы 2020. Группа Е"
+        },
+        {
+            "id": "14963948",
+            "href": "/sport/futbolitogi/futbol-chempionat-evropy-2020-gruppa-f-itogi",
+            "name": "Футбол. Чемпионат Европы 2020. Группа F"
+        },
+        {
+            "id": "14960943",
+            "href": "/sport/futbolitogi/futbol-liga-chempionov-uefa-201920-itogi",
+            "name": "Футбол. Лига чемпионов УЕФА 2019/20"
+        },
+        {
+            "id": "14962780",
+            "href": "/sport/futbolitogi/futbol-liga-evropy-uefa-201920-itogi",
+            "name": "Футбол. Лига Европы УЕФА 2019/20"
+        },
+        {
+            "id": "14963710",
+            "href": "/sport/futbolitogi/futbol-kopa-amerika-2020-itogi",
+            "name": "Футбол. Копа Америка 2020"
+        },
+        {
+            "id": "14963711",
+            "href": "/sport/futbolitogi/futbol-kopa-amerika-2020-itogi-gruppovogo-ehtapa",
+            "name": "Футбол. Копа Америка 2020. Итоги группового этапа"
+        },
+        {
+            "id": "14962578",
+            "href": "/sport/futbolitogi/futbol-anglija-premer-liga-201920-itogi",
+            "name": "Футбол. Англия. Премьер-лига 2019/20"
+        },
+        {
+            "id": "14962789",
+            "href": "/sport/futbolitogi/futbol-anglija-premer-liga-201920-specialnye-predlozhenija-itogi",
+            "name": "Футбол. Англия. Премьер-лига 2019/20. Специальные предложения"
+        },
+        {
+            "id": "14962769",
+            "href": "/sport/futbolitogi/futbol-anglija-kubok-201920-itogi",
+            "name": "Футбол. Англия. Кубок 2019/20"
+        },
+        {
+            "id": "14962771",
+            "href": "/sport/futbolitogi/futbol-anglija-liga-1-201920-itogi",
+            "name": "Футбол. Англия. Лига 1 2019/20"
+        },
+        {
+            "id": "14962772",
+            "href": "/sport/futbolitogi/futbol-anglija-liga-2-201920-itogi",
+            "name": "Футбол. Англия. Лига 2 2019/20"
+        },
+        {
+            "id": "14960997",
+            "href": "/sport/futbolitogi/futbol-anglija-nacionalnaja-konferencija-201920-itogi",
+            "name": "Футбол. Англия. Национальная конференция 2019/20"
+        },
+        {
+            "id": "14961284",
+            "href": "/sport/futbolitogi/futbol-ispanija-primera-201920-itogi",
+            "name": "Футбол. Испания. Примера 2019/20"
+        },
+        {
+            "id": "14963028",
+            "href": "/sport/futbolitogi/futbol-ispanija-primera-201920-itogi-bez-uchjota-barselony-i-real-madrid",
+            "name": "Футбол. Испания. Примера 2019/20. Итоги без учёта Барселоны и Реал Мадрид"
+        },
+        {
+            "id": "14963029",
+            "href": "/sport/futbolitogi/futbol-ispanija-kubok-korolja-201920-itogi",
+            "name": "Футбол. Испания. Кубок Короля 2019/20"
+        },
+        {
+            "id": "14960977",
+            "href": "/sport/futbolitogi/futbol-germanija-bundesliga-201920-itogi",
+            "name": "Футбол. Германия. Бундеслига 2019/20"
+        },
+        {
+            "id": "14961001",
+            "href": "/sport/futbolitogi/futbol-germanija-bundesliga-2-201920-itogi",
+            "name": "Футбол. Германия. Бундеслига 2 2019/20"
+        },
+        {
+            "id": "14962774",
+            "href": "/sport/futbolitogi/futbol-germanija-kubok-201920-itogi",
+            "name": "Футбол. Германия. Кубок 2019/20"
+        },
+        {
+            "id": "14962746",
+            "href": "/sport/futbolitogi/futbol-italija-serija-a-201920-itogi",
+            "name": "Футбол. Италия. Серия А 2019/20"
+        },
+        {
+            "id": "14963000",
+            "href": "/sport/futbolitogi/futbol-italija-kubok-20192020-itogi",
+            "name": "Футбол. Италия. Кубок 2019/2020"
+        },
+        {
+            "id": "14962730",
+            "href": "/sport/futbolitogi/futbol-francija-liga-1-201920-itogi",
+            "name": "Футбол. Франция. Лига 1 2019/20"
+        },
+        {
+            "id": "14962786",
+            "href": "/sport/futbolitogi/futbol-rossija-premer-liga-201920-itogi",
+            "name": "Футбол. Россия. Премьер-лига 2019/20"
+        },
+        {
+            "id": "14962798",
+            "href": "/sport/futbolitogi/futbol-rossija-fnl-201920-itogi",
+            "name": "Футбол. Россия. ФНЛ 2019/20"
+        },
+        {
+            "id": "14963338",
+            "href": "/sport/futbolitogi/futbol-rossija-kubok-20192020-itogi",
+            "name": "Футбол. Россия. Кубок 2019/2020"
+        },
+        {
+            "id": "14962800",
+            "href": "/sport/futbolitogi/futbol-ukraina-kubok-201920-itogi",
+            "name": "Футбол. Украина. Кубок 2019/20"
+        },
+        {
+            "id": "14962759",
+            "href": "/sport/futbolitogi/futbol-niderlandy-eredivisie-201920-itogi",
+            "name": "Футбол. Нидерланды. Eredivisie 2019/20"
+        },
+        {
+            "id": "14962845",
+            "href": "/sport/futbolitogi/futbol-belgija-pervyjj-divizion-a-201920-itogi",
+            "name": "Футбол. Бельгия. Первый дивизион А 2019/20"
+        },
+        {
+            "id": "14961003",
+            "href": "/sport/futbolitogi/futbol-avstrija-bundesliga-itogi",
+            "name": "Футбол. Австрия. Бундеслига"
+        }
+    ],
+    "Киберспорт": [
+        {
+            "id": "14964087",
+            "href": "/sport/kibersport/counter-strike-iem-katowice",
+            "name": "Counter-Strike. IEM Katowice"
+        },
+        {
+            "id": "14964046",
+            "href": "/sport/kibersport/dota-2-parimatch-league-s2",
+            "name": "Dota 2. Parimatch League S2"
+        },
+        {
+            "id": "14964263",
+            "href": "/sport/kibersport/dota-2-starladder-minor-s3",
+            "name": "Dota 2. StarLadder Minor S3"
+        },
+        {
+            "id": "14963393",
+            "href": "/sport/kibersport/dota-2-china-development-league",
+            "name": "Dota 2. China Development League"
+        },
+        {
+            "id": "14963626",
+            "href": "/sport/kibersport/dota-2-asian-gold-occupation-competition",
+            "name": "Dota 2. Asian Gold Occupation Competition"
+        },
+        {
+            "id": "14964248",
+            "href": "/sport/kibersport/dota-2-sigul-pro-league",
+            "name": "Dota 2. SIGUL Pro League"
+        },
+        {
+            "id": "14963961",
+            "href": "/sport/kibersport/dota-2-movistar-lpg-s3",
+            "name": "Dota 2. Movistar LPG S3"
+        },
+        {
+            "id": "14964231",
+            "href": "/sport/kibersport/dota-2-arena-of-blood-qualifier",
+            "name": "Dota 2. Arena of Blood Qualifier"
+        },
+        {
+            "id": "14964226",
+            "href": "/sport/kibersport/dota-2-maxline-winter-madness",
+            "name": "Dota 2. Maxline Winter Madness"
+        },
+        {
+            "id": "14964145",
+            "href": "/sport/kibersport/dota-2-epic-origins-league-s1",
+            "name": "Dota 2. Epic Origins League S1"
+        },
+        {
+            "id": "14964232",
+            "href": "/sport/kibersport/dota-2-elite-challenge-s3",
+            "name": "Dota 2. Elite Challenge S3"
+        },
+        {
+            "id": "14963886",
+            "href": "/sport/kibersport/counter-strike-esea-eu-s33",
+            "name": "Counter-Strike. ESEA EU S33"
+        },
+        {
+            "id": "14964012",
+            "href": "/sport/kibersport/counter-strike-esea-na-s33",
+            "name": "Counter-Strike. ESEA NA S33"
+        },
+        {
+            "id": "14963880",
+            "href": "/sport/kibersport/counter-strike-esea-eu-advanced-s33",
+            "name": "Counter-Strike. ESEA EU Advanced S33"
+        },
+        {
+            "id": "14964251",
+            "href": "/sport/kibersport/counter-strike-flashpoint-s1-lan-qualifier",
+            "name": "Counter-Strike. FLASHPOINT S1 LAN Qualifier"
+        },
+        {
+            "id": "14963877",
+            "href": "/sport/kibersport/counter-strike-esea-au-s33",
+            "name": "Counter-Strike. ESEA AU S33"
+        },
+        {
+            "id": "14964247",
+            "href": "/sport/kibersport/counter-strike-lantrek",
+            "name": "Counter-Strike. Lantrek"
+        },
+        {
+            "id": "14964022",
+            "href": "/sport/kibersport/counter-strike-clutch-s2",
+            "name": "Counter-Strike. CLUTCH S2"
+        },
+        {
+            "id": "14963962",
+            "href": "/sport/kibersport/counter-strike-svenska-elitserien",
+            "name": "Counter-Strike. Svenska Elitserien"
+        },
+        {
+            "id": "14964261",
+            "href": "/sport/kibersport/counter-strike-lpl-pro-league-s4",
+            "name": "Counter-Strike. LPL Pro League S4"
+        },
+        {
+            "id": "14964141",
+            "href": "/sport/kibersport/counter-strike-l33t-cup",
+            "name": "Counter-Strike. L33T CUP"
+        },
+        {
+            "id": "14964228",
+            "href": "/sport/kibersport/counter-strike-omg-cup",
+            "name": "Counter-Strike. OMG Cup"
+        },
+        {
+            "id": "14961804",
+            "href": "/sport/kibersport/liga-legend-lck",
+            "name": "Лига Легенд. LCK"
+        },
+        {
+            "id": "14962739",
+            "href": "/sport/kibersport/liga-legend-lec",
+            "name": "Лига Легенд. LEC"
+        },
+        {
+            "id": "14963868",
+            "href": "/sport/kibersport/liga-legend-lcs",
+            "name": "Лига Легенд. LCS"
+        },
+        {
+            "id": "14962998",
+            "href": "/sport/kibersport/liga-legend-cblol",
+            "name": "Лига Легенд. CBLOL"
+        },
+        {
+            "id": "14961798",
+            "href": "/sport/kibersport/liga-legend-lcl",
+            "name": "Лига Легенд. LCL"
+        },
+        {
+            "id": "14963960",
+            "href": "/sport/kibersport/liga-legend-ljl",
+            "name": "Лига Легенд. LJL"
+        },
+        {
+            "id": "14961829",
+            "href": "/sport/kibersport/liga-legend-tcl",
+            "name": "Лига Легенд. TCL"
+        },
+        {
+            "id": "14963992",
+            "href": "/sport/kibersport/liga-legend-ebl",
+            "name": "Лига Легенд. EBL"
+        },
+        {
+            "id": "14962714",
+            "href": "/sport/kibersport/liga-legend-lla",
+            "name": "Лига Легенд. LLA"
+        },
+        {
+            "id": "14963011",
+            "href": "/sport/kibersport/liga-legend-lvp",
+            "name": "Лига Легенд. LVP"
+        },
+        {
+            "id": "14961830",
+            "href": "/sport/kibersport/liga-legend-vcs",
+            "name": "Лига Легенд. VCS"
+        },
+        {
+            "id": "14961828",
+            "href": "/sport/kibersport/liga-legend-opl",
+            "name": "Лига Легенд. OPL"
+        },
+        {
+            "id": "14962853",
+            "href": "/sport/kibersport/liga-legend-ck",
+            "name": "Лига Легенд. CK"
+        },
+        {
+            "id": "14963922",
+            "href": "/sport/kibersport/liga-legend-prime-league",
+            "name": "Лига Легенд. Prime League"
+        },
+        {
+            "id": "14963921",
+            "href": "/sport/kibersport/liga-legend-pg-nationals",
+            "name": "Лига Легенд. PG Nationals"
+        },
+        {
+            "id": "14963934",
+            "href": "/sport/kibersport/liga-legend-na-academy",
+            "name": "Лига Легенд. NA Academy"
+        },
+        {
+            "id": "14964071",
+            "href": "/sport/kibersport/rocket-league-rlcs-s9",
+            "name": "Rocket League. RLCS S9"
+        },
+        {
+            "id": "14964144",
+            "href": "/sport/kibersport/rocket-league-rlrs-s9",
+            "name": "Rocket League. RLRS S9"
+        },
+        {
+            "id": "14964264",
+            "href": "/sport/kibersport/starcraft-2-iem-katowice",
+            "name": "Starcraft 2. IEM Katowice"
+        },
+        {
+            "id": "14962851",
+            "href": "/sport/kibersport/overwatch-owl",
+            "name": "Overwatch. OWL"
+        },
+        {
+            "id": "14963759",
+            "href": "/sport/kibersport/specialnye-stavki-dota-2",
+            "name": "Специальные ставки. Dota 2"
+        },
+        {
+            "id": "14964239",
+            "href": "/sport/kibersport/itogi-dota-2-starladder-minor-s3",
+            "name": "Итоги. Dota 2. StarLadder Minor S3"
+        },
+        {
+            "id": "14964142",
+            "href": "/sport/kibersport/itogi-dota-2-esl-one-los-angeles",
+            "name": "Итоги. Dota 2. ESL One Los Angeles"
+        },
+        {
+            "id": "14964216",
+            "href": "/sport/kibersport/itogi-counter-strike-esl-pro-league-s11",
+            "name": "Итоги. Counter-Strike. ESL Pro League S11"
+        }
+    ],
+    "Волейбол": [
+        {
+            "id": "14962192",
+            "href": "/sport/volejjbol/kazakhstan-nacionalnaja-liga",
+            "name": "Казахстан. Национальная лига"
+        },
+        {
+            "id": "14962564",
+            "href": "/sport/volejjbol/polsha-plusliga",
+            "name": "Польша. PlusLiga"
+        },
+        {
+            "id": "14961886",
+            "href": "/sport/volejjbol/respublika-koreja-v-liga",
+            "name": "Республика Корея. V-Лига"
+        },
+        {
+            "id": "14961102",
+            "href": "/sport/volejjbol/serbija-superliga",
+            "name": "Сербия. Суперлига"
+        },
+        {
+            "id": "14961922",
+            "href": "/sport/volejjbol/finljandija-mestaruusliiga",
+            "name": "Финляндия. Mestaruusliiga"
+        },
+        {
+            "id": "14963456",
+            "href": "/sport/volejjbol/zhenshhiny-bolgarija-superliga",
+            "name": "Женщины. Болгария. Суперлига"
+        },
+        {
+            "id": "14961466",
+            "href": "/sport/volejjbol/zhenshhiny-polsha-lsk",
+            "name": "Женщины. Польша. LSK"
+        },
+        {
+            "id": "14961888",
+            "href": "/sport/volejjbol/zhenshhiny-respublika-koreja-v-liga",
+            "name": "Женщины. Республика Корея. V-Лига"
+        },
+        {
+            "id": "14963368",
+            "href": "/sport/volejjbol/zhenshhiny-turcija-sultanlar-ligi",
+            "name": "Женщины. Турция. Sultanlar Ligi"
+        },
+        {
+            "id": "14961143",
+            "href": "/sport/volejjbol/zhenshhiny-shvejjcarija-nla",
+            "name": "Женщины. Швейцария. NLA"
+        }
+    ],
+    "Футбол/Статистика": [
+        {
+            "id": "14961330",
+            "href": "/sport/futbol/bystryjj-gol",
+            "name": "Футбол. Быстрый гол"
+        },
+        {
+            "id": "14963503",
+            "href": "/sport/futbol/liga-evropy-uefa-statistika",
+            "name": "Футбол. Лига Европы УЕФА"
+        },
+        {
+            "id": "14962047",
+            "href": "/sport/futbol/kubok-libertadores-statistika",
+            "name": "Футбол. Кубок Либертадорес"
+        },
+        {
+            "id": "14961320",
+            "href": "/sport/futbol/anglija-premer-liga-statistika",
+            "name": "Футбол. Англия. Премьер-лига"
+        },
+        {
+            "id": "14961321",
+            "href": "/sport/futbol/anglija-kubok-ligi-statistika",
+            "name": "Футбол. Англия. Кубок лиги"
+        },
+        {
+            "id": "14960464",
+            "href": "/sport/futbol/germanija-bundesliga-statistika",
+            "name": "Футбол. Германия. Бундеслига"
+        },
+        {
+            "id": "14962842",
+            "href": "/sport/futbol/rossija-statistika",
+            "name": "Футбол. Россия"
+        }
+    ],
+    "Бейсбол": [
+        {
+            "id": "14962344",
+            "href": "/sport/bejjsbol/mlb-predsezonnye-matchi",
+            "name": "MLB. Предсезонные матчи"
+        }
+    ],
+    "Единоборства": [
+        {
+            "id": "14961163",
+            "href": "/sport/edinoborstva/absolute-championship-akhmat",
+            "name": "Absolute Championship Akhmat"
+        },
+        {
+            "id": "14961157",
+            "href": "/sport/edinoborstva/bellator",
+            "name": "Bellator"
+        },
+        {
+            "id": "14962582",
+            "href": "/sport/edinoborstva/gfc",
+            "name": "GFC"
+        },
+        {
+            "id": "14963815",
+            "href": "/sport/edinoborstva/invicta-fighting-championships",
+            "name": "Invicta Fighting Championships"
+        },
+        {
+            "id": "14963924",
+            "href": "/sport/edinoborstva/ksw",
+            "name": "KSW"
+        },
+        {
+            "id": "14961158",
+            "href": "/sport/edinoborstva/fight-nights-global",
+            "name": "Fight Nights Global"
+        },
+        {
+            "id": "14963926",
+            "href": "/sport/edinoborstva/cage-warriors-fighting-championship",
+            "name": "Cage Warriors Fighting Championship"
+        },
+        {
+            "id": "14963863",
+            "href": "/sport/edinoborstva/glory-kickboxing",
+            "name": "Glory Kickboxing"
+        },
+        {
+            "id": "14963959",
+            "href": "/sport/edinoborstva/naiza-fighting-championship",
+            "name": "Naiza Fighting Championship"
+        },
+        {
+            "id": "14961160",
+            "href": "/sport/edinoborstva/one-championship",
+            "name": "ONE Championship"
+        },
+        {
+            "id": "14962419",
+            "href": "/sport/edinoborstva/oktagon",
+            "name": "Oktagon"
+        }
+    ],
+    "Регби": [
+        {
+            "id": "14961211",
+            "href": "/sport/regbi/-regbi-liga-nrl",
+            "name": " Регби-лига. NRL"
+        },
+        {
+            "id": "14961200",
+            "href": "/sport/regbi/-regbi-liga-superliga",
+            "name": " Регби-лига. Суперлига"
+        },
+        {
+            "id": "14961206",
+            "href": "/sport/regbi/-regbi-sojuz-super-regbi",
+            "name": " Регби-союз. Супер Регби"
+        },
+        {
+            "id": "14961057",
+            "href": "/sport/regbi/-regbi-sojuz-pro14",
+            "name": " Регби-союз. Про14"
+        },
+        {
+            "id": "14961056",
+            "href": "/sport/regbi/-regbi-sojuz-anglija-premer-liga",
+            "name": " Регби-союз. Англия. Премьер-лига"
+        },
+        {
+            "id": "14961036",
+            "href": "/sport/regbi/-regbi-sojuz-francija-top-14",
+            "name": " Регби-союз. Франция. Топ-14"
+        },
+        {
+            "id": "14961043",
+            "href": "/sport/regbi/-regbi-sojuz-francija-pro-d2",
+            "name": " Регби-союз. Франция. Про Д2"
+        }
+    ]
+}
