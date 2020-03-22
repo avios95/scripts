@@ -48,6 +48,3 @@ for cof_list in table.select("tr", {'class': 'belowHeader'}):
             writerrow = csv.writer(csvfile)
             row=cof_list_list[2],cof_list_list[3],cof_list_list[4],cof_list_list[5],"","","","",cof_list_list[10],cof_list_list[11],cof_list_list[12]
             writerrow.writerow(row)
-
-
-

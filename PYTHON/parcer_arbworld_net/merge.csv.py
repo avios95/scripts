@@ -11,10 +11,3 @@ for row2 in FileTwoReader:
     print("===================")
     for row1 in FileOneReader:
         print(row1[2],"-----", row1[9])
-
-
-
-
-
-
-print("1")

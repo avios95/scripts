@@ -13,7 +13,6 @@ soup = BeautifulSoup(r.text, 'lxml')
 
 events_file = "arb_1x2" + ".csv"
 
-
 table1 = soup.find("table", {'class': 'grid'})
 for cof_list1 in table1.select("tr", {'class': 'heading'}):
     header_cof = []
