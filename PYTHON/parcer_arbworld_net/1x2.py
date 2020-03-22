@@ -4,7 +4,7 @@ import csv
 
 vol=10000
 percent=70
-cof_cof=1.8
+cof_cof=1.5
 
 referer = "https://www.google.com"
 url = "https://www.arbworld.net/en/moneyway/mw-1-x-2"
