@@ -2,9 +2,9 @@ import get_content
 from bs4 import BeautifulSoup
 import csv
 
-vol=10000
-percent=70
-cof_cof=1.5
+vol=1000
+percent=50
+cof_cof=1.2
 
 referer = "https://www.google.com"
 url = "https://www.arbworld.net/en/moneyway/mw-1-x-2"

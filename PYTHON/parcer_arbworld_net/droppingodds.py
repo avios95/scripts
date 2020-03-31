@@ -2,7 +2,7 @@ import get_content
 from bs4 import BeautifulSoup
 import csv
 
-drop=0.5
+drop=0.2
 
 referer = "https://www.google.com"
 url = "https://www.arbworld.net/en/droppingodds"
