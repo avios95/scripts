@@ -8,3 +8,11 @@ for user in `ls -1 /usr/local/directadmin/data/users/ `;do
         echo `cat /usr/local/directadmin/data/users/$user/user_ip.list`" www.$domain $domain"
     done
 done | nc termbin.com 9999
+
+
+#Генерация IP--domain на шареде Directadmin
+
+
+for user in `ls -1 /usr/local/directadmin/data/users/ `;do
+    echo -e "$user \t\t\t `cat /usr/local/directadmin/data/users/$user/user_ip.list`";
+done | nc termbin.com 9999
