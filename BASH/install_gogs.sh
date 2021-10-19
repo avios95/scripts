@@ -4,9 +4,9 @@ if [ -n "$1" ]
 then
 
     domain=$1
-    apt update -y
-    apt upgrade -y
-    apt install mysql-server pwgen git  golang-go nginx -y
+    apt-get update -y
+    apt-get upgrade -y
+    apt-get install mysql-server pwgen git  golang-go nginx -y
 
     root_pass=`pwgen -s 16 1`
     gogs_pass=`pwgen -s 16 1`
@@ -92,10 +92,10 @@ then
 
     clear
 
-    echo"
+    echo "
     Services status:
-    `systemctl status nginx gogs mysql | egrep "service - |Active:"`
-
+    `systemctl status nginx gogs mysql | egrep "service - |Active:"`"
+    echo "
 
     Domain:   $domain
 
