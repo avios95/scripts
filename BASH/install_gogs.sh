@@ -11,7 +11,7 @@ then
     root_pass=`pwgen -s 16 1`
     gogs_pass=`pwgen -s 16 1`
 
-    cat > mysql_secure_installation.sql << EOF
+    echo "
     ALTER USER 'root'@'localhost' IDENTIFIED BY '$root_pass';
     DELETE FROM mysql.user WHERE User='';
     DELETE FROM mysql.user WHERE User='root' AND Host NOT IN ('localhost', '127.0.0.1', '::1');
@@ -20,13 +20,10 @@ then
     CREATE USER 'gogs'@'localhost' IDENTIFIED BY '$gogs_pass';
     CREATE DATABASE IF NOT EXISTS gogs CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
     GRANT ALL PRIVILEGES ON gogs.* TO 'gogs'@'localhost';
-    FLUSH PRIVILEGES;
-
-    EOF
+    FLUSH PRIVILEGES; " > mysql_secure_installation.sql
 
     mysql < mysql_secure_installation.sql
     rm -f mysql_secure_installation.sql
-
 
     cd /opt/
     adduser --disabled-login --gecos 'Gogs' git
