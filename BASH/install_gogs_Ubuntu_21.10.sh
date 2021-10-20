@@ -27,9 +27,11 @@ then
 
     cd /opt/
     adduser --disabled-login --gecos 'Gogs' git
-    git clone --depth 1 https://github.com/gogs/gogs.git gogs
+ #   git clone --depth 1 https://github.com/gogs/gogs.git gogs
+    wget https://github.com/gogs/gogs/releases/download/v0.12.3/gogs_0.12.3_linux_amd64.tar.gz
+    tar xvf gogs_0.12.3_linux_amd64.tar.gz
     cd ./gogs
-    go build -o gogs
+ #   go build -o gogs
     mkdir -p ./custom/conf/
 
     echo "[server]
