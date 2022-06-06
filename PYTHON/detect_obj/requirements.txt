@@ -1,0 +1,11 @@
+keras
+tensorflow
+opencv-python
+numpy
+scikit-image
+sklearn
+patchify
+tqdm
+pydot
+graphviz
+IPython

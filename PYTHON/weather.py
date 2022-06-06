@@ -14,8 +14,6 @@ print("temp_min:", data['main']['temp_min'])
 print("temp_max:", data['main']['temp_max'])
 
 
-
-
 res = requests.get("http://api.openweathermap.org/data/2.5/forecast",
                    params={'id': city_id, 'units': 'metric', 'lang': 'ru', 'APPID': appid})
 data = res.json()

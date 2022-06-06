@@ -6,8 +6,8 @@ start_time = time.time()
 
 HOST = 'ftp.server.net'
 PORT = 21
-FTP_USER = 'avios'
-FTP_PASS = 'Eya7nzXssfdsfgfdseg'
+FTP_USER = 'safasf'
+FTP_PASS = 'saffas'
 source_dir = '/home/avios/test'
 ftp_dir = '/test1'
 
